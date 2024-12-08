@@ -1,0 +1,15 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+/*
+.divVSFGrid {
+  width: 27vw;
+  height: 60vh;
+  float: left;
+}*/
+
+.grdVSF {
+  padding-top: 3vh;
+  height: 63vh;
+  width: 28vw;
+}

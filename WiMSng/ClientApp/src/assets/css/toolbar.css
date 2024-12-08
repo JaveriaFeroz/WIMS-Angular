@@ -1,0 +1,326 @@
+button {
+  cursor: pointer;
+  border: none;
+  height: 35px;
+  width: 35px;
+  background-color: transparent;
+  float: left;
+}
+
+  button:hover {
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset 0 0 10px #000000;
+  }
+
+  button[disabled] {
+    pointer-events: none !important;
+    opacity: 0.4;
+    background-color: rgba(128,128,128, 0.7);
+  }
+
+    button[disabled]:hover {
+      -moz-box-shadow: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+    }
+
+  button.recall {
+    background: url(../images/Recall.png) no-repeat center;
+    background-size: contain;
+  }
+
+  button.transfer {
+    background: url(../images/transfer.png) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.received {
+    background: url(../images/resolve.PNG) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.add {
+    background: url(../images/Add.png) no-repeat center;
+  }
+
+  button.delete {
+    background: url(../images/Delete.png) no-repeat;
+  }
+
+  button.edit {
+    background: url(../images/Edit.png) no-repeat;
+  }
+
+  button.find {
+    background: url(../images/Search.png) no-repeat;
+  }
+
+  button.save {
+    background: url(../images/Save.png) no-repeat;
+  }
+
+  button.close {
+    background: url(../images/Close.png) no-repeat center center;
+    height: 30px;
+    width: 50px;
+  }
+
+  button.undo {
+    background: url(../images/Undo.png) no-repeat;
+    text-indent: -9999px;
+  }
+
+  button.exit {
+    background: url(../images/Exit.png) no-repeat;
+  }
+
+  button.swap {
+    background: url(../images/swap.png) no-repeat;
+  }
+
+
+  button.load {
+    background: url(../images/Options.png) no-repeat center center;
+/*    background-size: contain;*/
+/*    height: 100px;
+    width: 100px;*/
+}
+
+
+
+  button.go {
+    background: url(../images/go_ahead.png) no-repeat;
+    text-indent: -9999px;
+    width: 50px; /*standard width override due to larger icon*/
+    height: 45px; /*standard height override due to larger icon*/
+  }
+
+  button.back {
+    background: url(../images/go_back.png) no-repeat;
+    text-indent: -9999px;
+    width: 50px; /*standard width override due to larger icon*/
+    height: 45px; /*standard height override due to larger icon*/
+  }
+
+
+  /*button.clear {
+    background: url(../images/clear.jpg) no-repeat center center;
+    background-size: contain;
+    height: 27px;
+    width: 25px;
+    margin-left: 1px;
+    margin-top: 6px;
+  }*/
+
+  button.home {
+    background: url(../images/home.png) no-repeat;
+    height: 40px;
+    width: 40px;
+    align-content: center;
+  }
+
+  a.home {
+    background: url(../images/home.png) no-repeat;
+    height: 40px;
+    width: 40px;
+    align-content: center;
+  }
+
+  button.upload {
+    background: url(../images/Upload.png) no-repeat center center;
+    height: 40px;
+  }
+
+
+
+  button.export {
+    background: url(../images/exporticon.png) no-repeat;
+    height: 30px;
+    width: 75px;
+  }
+
+  button.editLineTiny {
+    background: url(../images/EditTiny.png) no-repeat;
+    height: 25px;
+    width: 23px;
+  }
+
+  button.UndoLineTiny {
+    background: url(../images/UndoTiny.png) no-repeat;
+    height: 25px;
+    width: 23px;
+  }
+
+  button.deleteLineTiny {
+    background: url(../images/deletetiny.png) no-repeat;
+    height: 25px;
+    width: 23px;
+  }
+
+  button.addLineTiny {
+    background: url(../images/AddTiny.png) no-repeat;
+    height: 25px;
+    width: 23px;
+  }
+
+  button.history {
+    background: url(../images/history.png) no-repeat center center;
+    height: 30px;
+    width: 50px;
+  }
+
+  button.submit {
+    background: url(../images/submit.PNG) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.approve {
+    background: url(../images/approve.png) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.reject {
+    background: url(../images/Reject.png) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.return {
+    background: url(../images/Return.png) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.forward {
+    background: url(../images/Forward.png) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.resolve {
+    background: url(../images/resolve.PNG) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.acknowledge {
+    background: url(../images/acknowledge.PNG) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.reverse {
+    background: url(../images/acknowledge.PNG) no-repeat center center;
+    background-size: contain;
+  }
+
+  button.download {
+    background: url(../images/download.jpg) no-repeat center center;
+    background-size: contain;
+  }
+  button.cancel {
+    background: url(../images/cancel.jpg) no-repeat center center;
+    background-size: contain;
+  }
+
+
+  button.Actual {
+    background: url(../images/Actual.jpg) no-repeat;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+  }
+
+  button.Estimate {
+    background: url(../images/Estimate.png) no-repeat;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+  }
+
+  button.PMMaintenance {
+    background: url(../images/PMMaintenance.png) no-repeat;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+  }
+
+a[disabled] {
+  pointer-events: none !important;
+  opacity: 0.4;
+  background-color: rgba(128,128,128, 0.7);
+}
+
+a:hover {
+  -moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;
+}
+
+a[disabled]:hover {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+a:focus {
+  border: 1px groove #FF3334;
+}
+
+
+
+a.Template {
+  display: block;
+  width: 12vw;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  color: darkblue;
+  text-indent: 1px;
+  padding-top: 2px;
+  float: inherit;
+  background: rgba(0,0,0,0);
+}
+
+.classic {
+  background: #FFFFAA;
+  border: 1px solid #FFAD33;
+}
+
+.critical {
+  background: #FFCCAA;
+  border: 1px solid #FF3334;
+}
+
+.help {
+  background: #9FDAEE;
+  border: 1px solid #2BB0D7;
+}
+
+.info {
+  background: #9FDAEE;
+  border: 1px solid #2BB0D7;
+}
+
+.warning {
+  background: #FFFFAA;
+  border: 1px solid #FFAD33;
+}
+
+/*mat-checkbox {
+  font-size: 10px;
+}*/
+/*
+:host ::ng-deep .mat-tab-label {
+  height: 30px;
+  min-width: 10px;
+}
+
+  :host ::ng-deep .mat-tab-label.mat-tab-label-active {
+    height: 30px;
+    min-width: 10px;
+  }
+
+
+
+::ng-deep .mat-tab-header, .mat-tab-nav-bar {
+  border-bottom: 0;
+  padding: 1px
+}
+*/

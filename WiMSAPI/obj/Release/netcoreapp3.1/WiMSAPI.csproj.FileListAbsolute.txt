@@ -1,0 +1,370 @@
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.json
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.exe
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.deps.json
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.json
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.dev.json
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.pdb
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Abstractions.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Interception.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+G:\Current Software\WIMS Angular\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csprojAssemblyReference.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfoInputs.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfo.cs
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CoreCompileInputs.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\staticwebassets\WiMSAPI.StaticWebAssets.Manifest.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\staticwebassets\WiMSAPI.StaticWebAssets.xml
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\WiMSAPI.styles.css
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.RazorTargetAssemblyInfo.cache
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CopyComplete
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.dll
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.pdb
+G:\Current Software\WIMS Angular\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.genruntimeconfig.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.AssemblyReference.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfoInputs.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfo.cs
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CoreCompileInputs.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.pdb
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.json
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.StaticWebAssets.xml
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.exe
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.deps.json
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.json
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.dev.json
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.pdb
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Abstractions.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Interception.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\staticwebassets\WiMSAPI.StaticWebAssets.Manifest.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.RazorTargetAssemblyInfo.cache
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CopyComplete
+H:\NaveelProjects\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.genruntimeconfig.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.exe
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.deps.json
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.json
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.runtimeconfig.dev.json
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\WiMSAPI.pdb
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Abstractions.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\Unity.Interception.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.AssemblyReference.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfoInputs.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.AssemblyInfo.cs
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CoreCompileInputs.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\staticwebassets\WiMSAPI.StaticWebAssets.Manifest.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\staticwebassets\WiMSAPI.StaticWebAssets.xml
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\WiMSAPI.styles.css
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.RazorTargetAssemblyInfo.cache
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.csproj.CopyComplete
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.dll
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.pdb
+D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\obj\Release\netcoreapp3.1\WiMSAPI.genruntimeconfig.cache

@@ -1,0 +1,2106 @@
+﻿++Solution 'WIMS Angular' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:WIMS Angular.sln
+++Script Documents
+++VM5
+++chromewebdata
+++VM11
+++VM12
+++VM13
+++VM14
+++VM15
+++VM16
+++VM17
+++VM18
+++VM19
+++VM20
+++VM21
+++VM22
+++VM23
+++VM24
+++VM25
+++VM26
+++VM27
+++VM28
+++VM29
+++VM30
+++VM31
+++VM32
+++VM33
+++VM34
+++VM35
+++VM36
+++VM37
+++VM38
+++VM39
+++VM40
+++VM41
+++VM42
+++VM43
+++VM44
+++WiMSAPI
+i:{00000000-0000-0000-0000-000000000000}:WiMSAPI
+++Connected Services 
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1667
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353802
+++Dependencies
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1666
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353801
+++Properties
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\properties\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\properties\
+++Areas
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\
+++Common
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\
+++Controllers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\controllers\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\controllers\
+++MyFormsController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\myformscontroller.cs
+++RecipientController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\recipientcontroller.cs
+++TestController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\testcontroller.cs
+++TokenController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\tokencontroller.cs
+++UploadFormsController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\controllers\uploadformscontroller.cs
+++Data
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\data\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\data\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\data\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\data\
+++Models
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\
+++Views
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\views\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\views\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\views\
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\views\
+++Finance
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\
+++Master
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\
+++AccessorialChargeController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\accessorialchargecontroller.cs
+++CalendarController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\calendarcontroller.cs
+++ChargeTypeController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\chargetypecontroller.cs
+++CostHeadController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\costheadcontroller.cs
+++CPTemplateController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\cptemplatecontroller.cs
+++KAMController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\kamcontroller.cs
+++ProfitCenterController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\profitcentercontroller.cs
+++StorerGroupController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\storergroupcontroller.cs
+++SupplierController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\suppliercontroller.cs
+++UserController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\usercontroller.cs
+++UserManagementController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\usermanagementcontroller.cs
+++WHTExemptionController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\controllers\whtexemptioncontroller.cs
+++Operation
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\
+++Upload
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\
+++Helper
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\
+++appsettings.json
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\appsettings.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\appsettings.json
+++GlobalSuppressions.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\globalsuppressions.cs
+++Program.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\program.cs
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\program.cs
+++ScaffoldingReadMe.txt
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\scaffoldingreadme.txt
+++Startup.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\startup.cs
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\startup.cs
+++WiMSAPI.csproj.vspscc
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\wimsapi.csproj.vspscc
+++No service dependencies discovered
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1668
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353803
+++Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:analyzers
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:analyzers
+++Frameworks
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:frameworks
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:frameworks
+++Packages
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:packages
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:packages
+++PublishProfiles
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\properties\publishprofiles\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\properties\publishprofiles\
+++launchSettings.json
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\properties\launchsettings.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\properties\launchsettings.json
+++FormHistory.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\formhistory.cs
+++Forms.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\forms.cs
+++Menu.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\menu.cs
+++MyForm.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\myform.cs
+++PasswordChange.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\passwordchange.cs
+++Recipient.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\recipient.cs
+++Submission.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\submission.cs
+++UForms.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\uforms.cs
+++UploadForm.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\uploadform.cs
+++UserCredential.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\common\models\usercredential.cs
+++AccInvoiceController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\accinvoicecontroller.cs
+++ControlJobController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\controljobcontroller.cs
+++GroupInvoiceController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\groupinvoicecontroller.cs
+++InvoiceCalendarController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\invoicecalendarcontroller.cs
+++InvoiceController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\invoicecontroller.cs
+++InvoiceRemarksController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\invoiceremarkscontroller.cs
+++PeriodController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\periodcontroller.cs
+++RateSheetController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\ratesheetcontroller.cs
+++WF_RateSheetController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\controllers\wf_ratesheetcontroller.cs
+++AccInvoice
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\accinvoice\
+++ControlJob
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\controljob\
+++GroupInvoice
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\groupinvoice\
+++Invoice
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoice\
+++InvoiceCalender
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoicecalender\
+++InvoiceRemarks
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoiceremarks\
+++Period
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\period\
+++Period.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\period\period.cs
+++Periods.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\period\periods.cs
+++RateSheet
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\
+++WF_RateSheet
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\
+++AccessorialCharge
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\accessorialcharge\
+++Calendar
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\calendar\
+++ChargeType
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\chargetype\
+++ContainerType
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\containertype\
+++ControlChargeCode
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\controlchargecode\
+++CostHead
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\costhead\
+++CostStatus
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\coststatus\
+++CPTemplate
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\cptemplate\
+++HandlingType
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\handlingtype\
+++KAM
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\kam\
+++LocCategory
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\loccategory\
+++PaymentStatus
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\paymentstatus\
+++PeriodType
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\periodtype\
+++ProfitCenter
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\profitcenter\
+++StorageType
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storagetype\
+++Storer
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storer\
+++StorerGroup
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storergroup\
+++Supplier
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\supplier\
+++Units
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\units\
+++UOM
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\uom\
+++User
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\
+++Warehouse
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\warehouse\
+++WHTExemption
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\whtexemption\
+++WorkFlow
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\workflow\
+++agEnum.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\agenum.cs
+++agFooter.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\agfooter.cs
+++agHelper.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\aghelper.cs
+++Authentication.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\authentication.cs
+++ErrorController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\errorcontroller.cs
+++ErrorModel.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\errormodel.cs
+++ErrorResponse.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\errorresponse.cs
+++JsonDateTimeConverter.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\jsondatetimeconverter.cs
+++Response.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\response.cs
+++Session.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\session.cs
+++ValidationFilter.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\helper\validationfilter.cs
+++appsettings.Development.json
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\appsettings.development.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:c:\users\naveel.haroon\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:c:\users\naveel.haroon\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\microsoft.aspnetcore.app
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\microsoft.netcore.app
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\microsoft.netcore.app
+++EnterpriseLibrary.Data.NetCore (6.3.2)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1679
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.11)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1684
+++Microsoft.AspNetCore.Cors (2.2.0)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1680
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.4)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1685
+++Newtonsoft.Json (12.0.3)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1678
+++System.Configuration.ConfigurationManager (4.7.0)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1681
+++System.Data.Common (4.3.0)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1683
+++System.Data.SqlClient (4.8.2)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1682
+++System.IdentityModel.Tokens.Jwt (6.11.1)
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:>1677
+++UAT - WiMS API.pubxml
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\properties\publishprofiles\uat - wims api.pubxml
+++AccInvoice.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\accinvoice\accinvoice.cs
+++AccInvoiceDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\accinvoice\accinvoicedetail.cs
+++AccInvoices.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\accinvoice\accinvoices.cs
+++DRCRDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\accinvoice\drcrdetail.cs
+++ControlJob.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\controljob\controljob.cs
+++ControlJob_Detail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\controljob\controljob_detail.cs
+++GroupInvoice.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\groupinvoice\groupinvoice.cs
+++GroupInvoiceDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\groupinvoice\groupinvoicedetail.cs
+++Invoice.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoice\invoice.cs
+++InvoiceInfo.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoice\invoiceinfo.cs
+++Invoices.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoice\invoices.cs
+++InvoiceValidation.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoice\invoicevalidation.cs
+++InvCal_Detail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoicecalender\invcal_detail.cs
+++InvCalendar.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoicecalender\invcalendar.cs
+++InvCalendars.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoicecalender\invcalendars.cs
+++InvoiceRemarks.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\invoiceremarks\invoiceremarks.cs
+++RateSheet.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet.cs
+++RateSheet_Accessorial.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_accessorial.cs
+++RateSheet_Handling.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_handling.cs
+++RateSheet_Handling_ContainerType.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_handling_containertype.cs
+++RateSheet_Handling_SKU.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_handling_sku.cs
+++RateSheet_ProjectRemarks.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_projectremarks.cs
+++RateSheet_Storage.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_storage.cs
+++RateSheet_Storage_ExLoc.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_storage_exloc.cs
+++RateSheet_Storage_LocCategory.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheet_storage_loccategory.cs
+++RateSheets.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\ratesheet\ratesheets.cs
+++WF_RateSheet.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet.cs
+++WF_RateSheet_Accessorial.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_accessorial.cs
+++WF_RateSheet_Handling.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_handling.cs
+++WF_RateSheet_Handling_ContainerType.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_handling_containertype.cs
+++WF_RateSheet_Handling_SKU.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_handling_sku.cs
+++WF_RateSheet_ProjectRemarks.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_projectremarks.cs
+++WF_RateSheet_Storage.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_storage.cs
+++WF_RateSheet_Storage_ExLoc.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_storage_exloc.cs
+++WF_RateSheet_Storage_LocCategory.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheet_storage_loccategory.cs
+++WF_RateSheets.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\finance\models\wf_ratesheet\wf_ratesheets.cs
+++AccessorialCharge.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\accessorialcharge\accessorialcharge.cs
+++AccessorialCharges.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\accessorialcharge\accessorialcharges.cs
+++Calendar.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\calendar\calendar.cs
+++CalendarDays.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\calendar\calendardays.cs
+++DayTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\calendar\daytypes.cs
+++ChargeType.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\chargetype\chargetype.cs
+++ChargeTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\chargetype\chargetypes.cs
+++ContainerTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\containertype\containertypes.cs
+++ControlChargeCodes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\controlchargecode\controlchargecodes.cs
+++CostHead.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\costhead\costhead.cs
+++CostHeads.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\costhead\costheads.cs
+++CostStatuses.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\coststatus\coststatuses.cs
+++CPTemplate.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\cptemplate\cptemplate.cs
+++CPTemplateDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\cptemplate\cptemplatedetail.cs
+++CPTemplates.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\cptemplate\cptemplates.cs
+++HandlingTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\handlingtype\handlingtypes.cs
+++KAM.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\kam\kam.cs
+++KAMs.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\kam\kams.cs
+++LocCategories.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\loccategory\loccategories.cs
+++PaymentStatuses.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\paymentstatus\paymentstatuses.cs
+++PeriodTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\periodtype\periodtypes.cs
+++ProfitCenter.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\profitcenter\profitcenter.cs
+++ProfitCenters.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\profitcenter\profitcenters.cs
+++StorageTypes.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storagetype\storagetypes.cs
+++Storers.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storer\storers.cs
+++StorerGroup.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storergroup\storergroup.cs
+++StorerGroupDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storergroup\storergroupdetail.cs
+++StorerGroups.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\storergroup\storergroups.cs
+++Supplier.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\supplier\supplier.cs
+++Suppliers.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\supplier\suppliers.cs
+++Units.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\units\units.cs
+++UoMs.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\uom\uoms.cs
+++UserAccess.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\useraccess.cs
+++UserOption.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\useroption.cs
+++UserProfile.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\userprofile.cs
+++UserRole.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\userrole.cs
+++Users.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\users.cs
+++UserWarehouse.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\user\userwarehouse.cs
+++Warehouses.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\warehouse\warehouses.cs
+++WHTExemption.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\whtexemption\whtexemption.cs
+++WHTExemptions.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\whtexemption\whtexemptions.cs
+++WorkFlows.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\master\models\workflow\workflows.cs
+++CostProvisionController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\controllers\costprovisioncontroller.cs
+++HandlingDocController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\controllers\handlingdoccontroller.cs
+++VariableSqFtController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\controllers\variablesqftcontroller.cs
+++CostProvision
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\costprovision\
+++HandlingDoc
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\handlingdoc\
+++VariableSqFT
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\variablesqft\
+++ASNController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\controllers\asncontroller.cs
+++SOController.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\controllers\socontroller.cs
+++ASN
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\asn\
+++SO
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\so\
+++CostProvision.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\costprovision\costprovision.cs
+++CostProvisionDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\costprovision\costprovisiondetail.cs
+++CostProvisions.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\costprovision\costprovisions.cs
+++HandlingDoc.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\handlingdoc\handlingdoc.cs
+++SqFtReading.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\variablesqft\sqftreading.cs
+++VariableSqFt.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\operation\models\variablesqft\variablesqft.cs
+++ASN.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\asn\asn.cs
+++ASNDetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\asn\asndetail.cs
+++SO.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\so\so.cs
+++SODetail.cs
+i:{f0187fea-8d70-493e-a65e-8712bea35fee}:h:\naveelprojects\wims angular - copy\wimsapi\areas\upload\models\so\sodetail.cs
+++WiMS
+i:{00000000-0000-0000-0000-000000000000}:WiMS
+++wwwroot
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\wwwroot\
+++ClientApp
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\
+++dist
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\
+++e2e
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\
+++src
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\src\
+++app
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\
+++common
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\
+++footer
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\
+++login
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\
+++login.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.component.css
+++login.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.component.html
+++login.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.component.ts
+++login.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.service.ts
+++login.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.ts
+++login-layout.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login-layout.component.css
+++login-layout.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login-layout.component.html
+++login-layout.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login-layout.component.ts
+++main
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\
+++main-layout.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\main-layout.component.css
+++main-layout.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\main-layout.component.html
+++main-layout.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\main-layout.component.ts
+++menu
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\
+++myform
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\
+++myform.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.component.css
+++myform.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.component.html
+++myform.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.component.ts
+++myform.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.service.ts
+++recipient
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\recipient\
+++uploadform
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\
+++finance
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\
+++helper
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\
+++master
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\
+++operation
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\
+++upload
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\
+++app.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.component.html
+++app.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.component.ts
+++app.material.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.material.module.ts
+++app.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.module.ts
+++app.routes.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.routes.ts
+++filter.pipe.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\filter.pipe.ts
+++shared.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\shared.module.ts
+++assets
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\
+++environments
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\environments\
+++index.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\index.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\index.html
+++karma.conf.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\karma.conf.js
+++main.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\main.ts
+++polyfills.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\polyfills.ts
+++Styles.scss
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\styles.scss
+++tsconfig.app.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\tsconfig.app.json
+++tsconfig.server.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\tsconfig.server.json
+++tsconfig.spec.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\tsconfig.spec.json
+++tslint.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\tslint.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\tslint.json
+++web.config
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\web.config
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\web.config
+++.editorconfig
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\.editorconfig
+++.gitignore
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\.gitignore
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\.gitignore
+++.tfignore
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\.tfignore
+++angular.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\angular.json
+++browserslist
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\browserslist
+++package.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\package.json
+++README.md
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\readme.md
+++tsconfig.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\tsconfig.json
+++libman.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\libman.json
+++WiMs.csproj.vspscc
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\wims.csproj.vspscc
+++favicon.ico
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\wwwroot\favicon.ico
+++3rdpartylicenses.txt
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\3rdpartylicenses.txt
+++540-es2015.a585838544b340b793f9.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\540-es2015.a585838544b340b793f9.js
+++540-es5.a585838544b340b793f9.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\540-es5.a585838544b340b793f9.js
+++61-es2015.d5a4c995b8470ca185cd.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\61-es2015.d5a4c995b8470ca185cd.js
+++61-es5.d5a4c995b8470ca185cd.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\61-es5.d5a4c995b8470ca185cd.js
+++70-es2015.877e4febee2e8746eb55.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\70-es2015.877e4febee2e8746eb55.js
+++70-es5.877e4febee2e8746eb55.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\70-es5.877e4febee2e8746eb55.js
+++782-es2015.46770c547940222f1ae0.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\782-es2015.46770c547940222f1ae0.js
+++782-es5.46770c547940222f1ae0.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\782-es5.46770c547940222f1ae0.js
+++968-es2015.cbdba1ae1e57f0931405.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\968-es2015.cbdba1ae1e57f0931405.js
+++968-es5.cbdba1ae1e57f0931405.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\968-es5.cbdba1ae1e57f0931405.js
+++acknowledge.e4fb98ed55f1a9ff3c04.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\acknowledge.e4fb98ed55f1a9ff3c04.png
+++Actual.a36f9958a38f54d14281.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\actual.a36f9958a38f54d14281.jpg
+++Add.26591ee36149f8cb9222.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\add.26591ee36149f8cb9222.png
+++AddTiny.67a6081c8fefcd1924b4.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\addtiny.67a6081c8fefcd1924b4.png
+++approve.4e3bf6c346fa165546db.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\approve.4e3bf6c346fa165546db.png
+++cancel.053a4ead7f1ba67449bd.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\cancel.053a4ead7f1ba67449bd.jpg
+++Close.7e5535bd0eb913a065d4.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\close.7e5535bd0eb913a065d4.png
+++common-es2015.f058fe53a4956afe8a1c.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\common-es2015.f058fe53a4956afe8a1c.js
+++common-es5.f058fe53a4956afe8a1c.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\common-es5.f058fe53a4956afe8a1c.js
+++Delete.c7bf0a6156588ec91522.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\delete.c7bf0a6156588ec91522.png
+++deletetiny.61b63b4760c7e3eeb91e.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\deletetiny.61b63b4760c7e3eeb91e.png
+++download.e13812ba6a3cf355ac93.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\download.e13812ba6a3cf355ac93.jpg
+++Edit.1dced7251b677c28087f.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\edit.1dced7251b677c28087f.png
+++EditTiny.eb577b6aa32423f43fd2.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\edittiny.eb577b6aa32423f43fd2.png
+++Estimate.e9da57a2a03a5eca462f.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\estimate.e9da57a2a03a5eca462f.png
+++Exit.828ec630a61f1734b23c.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\exit.828ec630a61f1734b23c.png
+++exporticon.c690a8c1f96ddadcc15f.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\exporticon.c690a8c1f96ddadcc15f.png
+++Forward.75b1262d10e36a7bccd7.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\forward.75b1262d10e36a7bccd7.png
+++go_ahead.c296c550e8817d732581.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\go_ahead.c296c550e8817d732581.png
+++go_back.027e5bb9891289d0deb2.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\go_back.027e5bb9891289d0deb2.png
+++history.9590b43fdc3d6e7c2f23.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\history.9590b43fdc3d6e7c2f23.png
+++home.9d979e714cf55e7d2a24.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\home.9d979e714cf55e7d2a24.png
+++main-es2015.4682456466ef5174dce0.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\main-es2015.4682456466ef5174dce0.js
+++main-es5.4682456466ef5174dce0.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\main-es5.4682456466ef5174dce0.js
+++MaterialIcons-Regular.4674f8ded773cb03e824.eot
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\materialicons-regular.4674f8ded773cb03e824.eot
+++MaterialIcons-Regular.5e7382c63da0098d634a.ttf
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\materialicons-regular.5e7382c63da0098d634a.ttf
+++MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\materialicons-regular.83bebaf37c09c7e1c3ee.woff
+++MaterialIcons-Regular.cff684e59ffb052d72cb.woff2
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\materialicons-regular.cff684e59ffb052d72cb.woff2
+++Options.e911423cf5c3601e9167.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\options.e911423cf5c3601e9167.png
+++PMMaintenance.6fa6c53d3670d41e3d23.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\pmmaintenance.6fa6c53d3670d41e3d23.png
+++polyfills-es2015.5fa611d8c22adf0078cd.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\polyfills-es2015.5fa611d8c22adf0078cd.js
+++polyfills-es5.8bfa43098d436710cd25.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\polyfills-es5.8bfa43098d436710cd25.js
+++Recall.d37af3fe39ee327d269a.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\recall.d37af3fe39ee327d269a.png
+++Reject.c2eb4e9ebeeb6e972676.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\reject.c2eb4e9ebeeb6e972676.png
+++resolve.265291f6de4ac8d318dc.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\resolve.265291f6de4ac8d318dc.png
+++Return.5ea869dcc93e7441e21e.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\return.5ea869dcc93e7441e21e.png
+++runtime-es2015.c4a3328413e3d4cdc129.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\runtime-es2015.c4a3328413e3d4cdc129.js
+++runtime-es5.c4a3328413e3d4cdc129.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\runtime-es5.c4a3328413e3d4cdc129.js
+++Save.1957b4f27314b7310b5c.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\save.1957b4f27314b7310b5c.png
+++Search.2c1942c1507a629434a2.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\search.2c1942c1507a629434a2.png
+++styles.9282fe0a6a63adb490bb.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\styles.9282fe0a6a63adb490bb.css
+++submit.5dfab6564d9f52fc84b6.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\submit.5dfab6564d9f52fc84b6.png
+++swap.1de596b3bc0261ba4f2b.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\swap.1de596b3bc0261ba4f2b.png
+++transfer.934f500c8a4c825aa8de.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\transfer.934f500c8a4c825aa8de.png
+++Undo.108cc24266b07d743423.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\undo.108cc24266b07d743423.png
+++UndoTiny.b54534642b9b2a3f73e9.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\undotiny.b54534642b9b2a3f73e9.png
+++Upload.5c546146185d3eb755fd.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\upload.5c546146185d3eb755fd.png
+++protractor.conf.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\protractor.conf.js
+++tsconfig.e2e.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\tsconfig.e2e.json
+++footer.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.css
+++footer.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.html
+++footer.component.spec.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.spec.ts
+++footer.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.ts
+++login.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.js
+++login-layout.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login-layout.component.js
+++main-layout.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\main-layout.component.js
+++menu.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.component.css
+++menu.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.component.html
+++menu.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.component.ts
+++menu.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.ts
+++useroption.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\useroption.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\useroption.ts
+++myform.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.component.js
+++myform.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.service.js
+++recipient.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\recipient\recipient.service.ts
+++recipient.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\recipient\recipient.ts
+++uploadform.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.component.css
+++uploadform.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.component.html
+++uploadform.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.component.ts
+++uploadform.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.service.ts
+++accinvoice
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\
+++controljob
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\
+++financialperiod
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\
+++generateinvoice
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\
+++groupinvoice
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\
+++invcalendar
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\
+++invoiceremarks
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\
+++note
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\
+++preinvoicevalidation
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\
+++ratesheet
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\
+++uninvoice
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\
+++wf_ratesheet
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\
+++finance.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.module.ts
+++finance.routes.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.routes.ts
+++error
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\error\
+++formsubmissionDialog
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\
+++guard
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\guard\
+++historyDialog
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\
+++searchDialog
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\
+++service
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\
+++waitDialog
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\
+++agEnum.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agenum.ts
+++agFormHelper.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agformhelper.ts
+++agGrid-date.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggrid-date.component.ts
+++agGridHelper.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggridhelper.ts
+++footer.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\footer.ts
+++submission.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\submission.ts
+++accessorialcharge
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\
+++calendar
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\
+++chargetype
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\
+++costhead
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\
+++cptemplate
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\
+++kam
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\
+++profitcenter
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\
+++storergroup
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\
+++supplier
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\
+++usermanagement
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\
+++whtaxexemption
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\
+++master.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.module.ts
+++master.routes.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.routes.ts
+++costprovision
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\
+++handlingdoc
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\
+++variablesqft
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\
+++operation.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.module.ts
+++operation.routes.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.routes.ts
+++asn
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\
+++so
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\
+++upload.module.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.module.ts
+++upload.routes.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.routes.ts
+++app.material.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.material.module.js
+++app.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.module.js
+++app.routes.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.routes.js
+++filter.pipe.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\filter.pipe.js
+++shared.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\shared.module.js
+++css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\
+++icons
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\icons\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\icons\
+++images
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\
+++theme
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\theme\
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\theme\
+++.gitkeep
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\.gitkeep
+++environment.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\environments\environment.ts
+++main.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\main.js
+++polyfills.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\polyfills.js
+++styles.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\styles.css
+++package-lock.json
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\package-lock.json
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:c:\users\naveel.haroon\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.SpaServices.Extensions (3.1.12)
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353815
+++Microsoft.EntityFrameworkCore (3.1.13)
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353813
+++Microsoft.EntityFrameworkCore.Relational (3.1.13)
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353814
+++Microsoft.TypeScript.MSBuild (4.3.5)
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:>353812
+++WiMS - UAT.pubxml
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\properties\publishprofiles\wims - uat.pubxml
+++app.e2e-spec.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\src\app.e2e-spec.ts
+++app.po.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\e2e\src\app.po.ts
+++footer.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.js
+++login.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.component.js
+++login.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.js.map
+++login.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.service.js
+++login-layout.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login-layout.component.js.map
+++main-layout.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\main\main-layout.component.js.map
+++menu.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.js
+++myform.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.component.js.map
+++myform.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\myform\myform.service.js.map
+++recipient.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\recipient\recipient.service.js
+++uploadform.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.component.js
+++uploadform.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.service.js
+++accinvoice.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.component.css
+++accinvoice.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.component.html
+++accinvoice.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.component.ts
+++accinvoice.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.service.ts
+++accinvoice.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.ts
+++accinvoicedetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoicedetail.ts
+++controljob.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.component.css
+++controljob.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.component.html
+++controljob.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.component.ts
+++controljob.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.service.ts
+++controljob.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.ts
+++controljobdetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljobdetail.ts
+++financialperiod.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.component.css
+++financialperiod.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.component.html
+++financialperiod.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.component.ts
+++financialperiod.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.service.ts
+++financialperiod.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.ts
+++generateinvoice.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.component.css
+++generateinvoice.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.component.html
+++generateinvoice.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.component.ts
+++generateinvoice.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.service.ts
+++generateinvoice.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.ts
+++groupinvoice.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.component.css
+++groupinvoice.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.component.html
+++groupinvoice.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.component.ts
+++groupinvoice.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.service.ts
+++groupinvoice.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.ts
+++groupinvoicedetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoicedetail.ts
+++invcal_detail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcal_detail.ts
+++invcalendar.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.component.css
+++invcalendar.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.component.html
+++invcalendar.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.component.ts
+++invcalendar.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.service.ts
+++invcalendar.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.ts
+++invoiceremarks.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.component.css
+++invoiceremarks.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.component.html
+++invoiceremarks.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.component.ts
+++invoiceremarks.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.service.ts
+++invoiceremarks.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.ts
+++invoiceinfo.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\invoiceinfo.ts
+++note.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.component.css
+++note.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.component.html
+++note.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.component.ts
+++note.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.service.ts
+++note.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.ts
+++notedetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\notedetail.ts
+++preinvoicevalidation.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.component.css
+++preinvoicevalidation.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.component.html
+++preinvoicevalidation.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.component.ts
+++preinvoicevalidation.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.service.ts
+++ratesheet.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.component.css
+++ratesheet.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.component.html
+++ratesheet.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.component.ts
+++ratesheet.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.service.ts
+++ratesheet.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.ts
+++ratesheet_accessorial.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_accessorial.ts
+++ratesheet_handling.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling.ts
+++ratesheet_handling_containerType.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_containertype.ts
+++ratesheet_handling_sku.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_sku.ts
+++ratesheet_projectremarks.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_projectremarks.ts
+++ratesheet_storage.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage.ts
+++ratesheet_storage_exloc.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_exloc.ts
+++ratesheet_storage_loccategory.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_loccategory.ts
+++uninvoice.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.component.css
+++uninvoice.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.component.html
+++uninvoice.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.component.ts
+++uninvoice.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.service.ts
+++wf_ratesheet.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.component.css
+++wf_ratesheet.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.component.html
+++wf_ratesheet.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.component.ts
+++wf_ratesheet.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.service.ts
+++wf_ratesheet.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.ts
+++wf_ratesheet_accessorial.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_accessorial.ts
+++wf_ratesheet_handling.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling.ts
+++wf_ratesheet_handling_containertype.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_containertype.ts
+++wf_ratesheet_handling_sku.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_sku.ts
+++wf_ratesheet_projectremarks.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_projectremarks.ts
+++wf_ratesheet_storage.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage.ts
+++wf_ratesheet_storage_exloc.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_exloc.ts
+++wf_ratesheet_storage_loccategory.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_loccategory.ts
+++finance.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.module.js
+++finance.routes.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.routes.js
+++page-not-found.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\error\page-not-found.component.html
+++page-not-found.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\error\page-not-found.component.ts
+++formsubmission.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission.component.css
+++formsubmission-dialog.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.component.html
+++formsubmission-dialog.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.component.ts
+++formsubmission-dialog.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.service.ts
+++auth.guard.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\guard\auth.guard.ts
+++history.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history.component.css
+++history-dialog.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.component.html
+++history-dialog.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.component.ts
+++history-dialog.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.service.ts
+++search.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search.component.css
+++search-dialog.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.component.html
+++search-dialog.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.component.ts
+++search-dialog.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.service.ts
+++auth.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\auth.service.ts
+++errorInterceptor.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\errorinterceptor.service.ts
+++toaster.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\toaster.service.ts
+++tokenInterceptor.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\tokeninterceptor.service.ts
+++wait-dialog.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.component.html
+++wait-dialog.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.component.ts
+++wait-dialog.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.service.ts
+++agEnum.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agenum.js
+++agFormHelper.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agformhelper.js
+++agGrid-date.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggrid-date.component.js
+++agGridHelper.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggridhelper.js
+++footer.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\footer.js
+++submission.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\submission.js
+++accessorialcharge.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.component.css
+++accessorialcharge.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.component.html
+++accessorialcharge.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.component.ts
+++accessorialcharge.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.service.ts
+++accessorialcharge.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.ts
+++calendar.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.component.css
+++calendar.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.component.html
+++calendar.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.component.ts
+++calendar.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.service.ts
+++calendar.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.ts
+++calendardays.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendardays.ts
+++chargetype.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.component.css
+++chargetype.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.component.html
+++chargetype.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.component.ts
+++chargetype.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.service.ts
+++chargetype.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.ts
+++costhead.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.component.css
+++costhead.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.component.html
+++costhead.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.component.ts
+++costhead.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.service.ts
+++costhead.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.ts
+++cptemplate.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.component.css
+++cptemplate.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.component.html
+++cptemplate.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.component.ts
+++cptemplate.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.service.ts
+++cptemplate.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.ts
+++cptemplatedetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplatedetail.ts
+++kam.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.component.css
+++kam.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.component.html
+++kam.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.component.ts
+++kam.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.service.ts
+++kam.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.ts
+++profitcenter.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.component.css
+++profitcenter.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.component.html
+++profitcenter.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.component.ts
+++profitcenter.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.service.ts
+++profitcenter.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.ts
+++storergroup.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.component.css
+++storergroup.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.component.html
+++storergroup.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.component.ts
+++storergroup.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.service.ts
+++storergroup.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.ts
+++storergroupdetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroupdetail.ts
+++supplier.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.component.css
+++supplier.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.component.html
+++supplier.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.component.ts
+++supplier.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.service.ts
+++supplier.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.ts
+++usermanagement.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.component.css
+++usermanagement.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.component.html
+++usermanagement.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.component.ts
+++usermanagement.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.service.ts
+++userprofile.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userprofile.ts
+++userrole.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userrole.ts
+++userwarehouse.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userwarehouse.ts
+++whtaxexemption.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.component.css
+++whtaxexemption.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.component.html
+++whtaxexemption.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.component.ts
+++whtaxexemption.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.service.ts
+++whtaxexemption.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.ts
+++master.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.module.js
+++master.routes.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.routes.js
+++costprovision.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.component.css
+++costprovision.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.component.html
+++costprovision.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.component.ts
+++costprovision.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.service.ts
+++costprovision.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.ts
+++costprovisiondetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovisiondetail.ts
+++handlingdoc.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.component.css
+++handlingdoc.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.component.html
+++handlingdoc.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.component.ts
+++handlingdoc.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.service.ts
+++handlingdoc.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.ts
+++sqftreading.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\sqftreading.ts
+++variablesqft.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.component.css
+++variablesqft.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.component.html
+++variablesqft.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.component.ts
+++variablesqft.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.service.ts
+++variablesqft.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.ts
+++operation.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.module.js
+++operation.routes.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.routes.js
+++asn.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.component.css
+++asn.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.component.html
+++asn.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.component.ts
+++asn.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.service.ts
+++asn.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.ts
+++asndetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asndetail.ts
+++so.component.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.component.css
+++so.component.html
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.component.html
+++so.component.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.component.ts
+++so.service.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.service.ts
+++so.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.ts
+++sodetail.ts
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\sodetail.ts
+++upload.module.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.module.js
+++upload.routes.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.routes.js
+++app.material.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.material.module.js.map
+++app.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.module.js.map
+++app.routes.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\app.routes.js.map
+++filter.pipe.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\filter.pipe.js.map
+++shared.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\shared.module.js.map
+++CSS.zip
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\css.zip
+++footer.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\footer.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\footer.css
+++formsite.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\formsite.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\formsite.css
+++mainlayout.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\mainlayout.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\mainlayout.css
+++menu.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\menu.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\menu.css
+++toolbar.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\css\toolbar.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\css\toolbar.css
+++agility.ico
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\icons\agility.ico
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\icons\agility.ico
+++acknowledge.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\acknowledge.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\acknowledge.png
+++Actual.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\actual.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\actual.jpg
+++add.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\add.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\add.png
+++AddTiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\addtiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\addtiny.png
+++approve.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\approve.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\approve.png
+++Attachment.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\attachment.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\attachment.png
+++cancel.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\cancel.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\cancel.jpg
+++Close.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\close.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\close.png
+++Delete.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\delete.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\delete.png
+++DeleteTiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\deletetiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\deletetiny.png
+++download.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\download.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\download.jpg
+++edit.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\edit.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\edit.png
+++EditTiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\edittiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\edittiny.png
+++Estimate.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\estimate.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\estimate.png
+++Exit.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\exit.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\exit.png
+++exporticon.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\exporticon.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\exporticon.png
+++Forward.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\forward.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\forward.png
+++GIL_Logo.bmp
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\gil_logo.bmp
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\gil_logo.bmp
+++go_ahead.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\go_ahead.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\go_ahead.png
+++go_back.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\go_back.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\go_back.png
+++history.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\history.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\history.png
+++home.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\home.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\home.png
+++NoPicture.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\nopicture.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\nopicture.png
+++Options.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\options.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\options.png
+++PMMaintenance.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\pmmaintenance.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\pmmaintenance.png
+++Recall.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\recall.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\recall.png
+++reject.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\reject.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\reject.png
+++resolve.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\resolve.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\resolve.png
+++return.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\return.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\return.png
+++Save.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\save.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\save.png
+++search.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\search.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\search.png
+++submit.PNG
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\submit.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\submit.png
+++swap.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\swap.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\swap.png
+++transfer.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\transfer.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\transfer.png
+++Undo.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\undo.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\undo.png
+++UndoTiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\undotiny.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\undotiny.png
+++Upload.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\upload.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\upload.png
+++View.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\view.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\view.png
+++Warehouse.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\warehouse.jpg
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\warehouse.jpg
+++WiMS.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\images\wims.png
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\wims.png
+++aggrid-theme.scss
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\theme\aggrid-theme.scss
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\theme\aggrid-theme.scss
+++agility-theme.scss
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\theme\agility-theme.scss
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\theme\agility-theme.scss
+++environment.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\environments\environment.js
+++main.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\main.js.map
+++polyfills.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\polyfills.js.map
+++Styles.min.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\styles.min.css
+++_GIL_Logo.bmp
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\images\_gil_logo.bmp
+++footer.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\footer\footer.component.js.map
+++login.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.component.js.map
+++login.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\login\login.service.js.map
+++menu.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.component.js
+++menu.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.js.map
+++recipient.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\recipient\recipient.service.js.map
+++uploadform.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.component.js.map
+++uploadform.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\uploadform\uploadform.service.js.map
+++accinvoice.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.js
+++accinvoicedetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoicedetail.js
+++controljob.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.js
+++controljobdetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljobdetail.js
+++financialperiod.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.js
+++generateinvoice.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.js
+++groupinvoice.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.js
+++groupinvoicedetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoicedetail.js
+++invcal_detail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcal_detail.js
+++invcalendar.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.js
+++invoiceremarks.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.js
+++note.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.js
+++notedetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\notedetail.js
+++preinvoicevalidation.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.component.js
+++preinvoicevalidation.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.service.js
+++ratesheet.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.js
+++ratesheet_accessorial.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_accessorial.js
+++ratesheet_handling.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling.js
+++ratesheet_handling_containerType.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_containertype.js
+++ratesheet_handling_sku.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_sku.js
+++ratesheet_projectremarks.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_projectremarks.js
+++ratesheet_storage.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage.js
+++ratesheet_storage_exloc.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_exloc.js
+++ratesheet_storage_loccategory.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_loccategory.js
+++uninvoice.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.component.js
+++uninvoice.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.service.js
+++wf_ratesheet.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.js
+++wf_ratesheet_accessorial.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_accessorial.js
+++wf_ratesheet_handling.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling.js
+++wf_ratesheet_handling_containertype.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_containertype.js
+++wf_ratesheet_handling_sku.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_sku.js
+++wf_ratesheet_projectremarks.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_projectremarks.js
+++wf_ratesheet_storage.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage.js
+++wf_ratesheet_storage_exloc.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_exloc.js
+++wf_ratesheet_storage_loccategory.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_loccategory.js
+++finance.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.module.js.map
+++finance.routes.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\finance.routes.js.map
+++formsubmission-dialog.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.component.js
+++formsubmission-dialog.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.service.js
+++auth.guard.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\guard\auth.guard.js
+++history-dialog.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.component.js
+++history-dialog.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.service.js
+++search-dialog.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.component.js
+++search-dialog.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.service.js
+++auth.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\auth.service.js
+++toaster.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\toaster.service.js
+++wait-dialog.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.component.js
+++wait-dialog.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.service.js
+++agEnum.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agenum.js.map
+++agFormHelper.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\agformhelper.js.map
+++agGrid-date.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggrid-date.component.js.map
+++agGrid-date.component.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggrid-date.component.map
+++agGridHelper.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\aggridhelper.js.map
+++footer.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\footer.js.map
+++submission.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\submission.js.map
+++accessorialcharge.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.js
+++calendar.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.js
+++calendardays.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendardays.js
+++chargetype.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.js
+++costhead.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.js
+++cptemplate.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.js
+++cptemplatedetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplatedetail.js
+++kam.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.js
+++profitcenter.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.js
+++storergroup.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.js
+++storergroupdetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroupdetail.js
+++supplier.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.js
+++usermanagement.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.component.js
+++usermanagement.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.service.js
+++userprofile.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userprofile.js
+++userrole.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userrole.js
+++userwarehouse.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userwarehouse.js
+++whtaxexemption.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.js
+++master.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.module.js.map
+++master.routes.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\master.routes.js.map
+++costprovision.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.js
+++costprovisiondetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovisiondetail.js
+++handlingdoc.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.js
+++sqftreading.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\sqftreading.js
+++variablesqft.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.js
+++operation.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.module.js.map
+++operation.routes.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\operation.routes.js.map
+++asn.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.js
+++asndetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asndetail.js
+++so.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.js
+++sodetail.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\sodetail.js
+++upload.module.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.module.js.map
+++upload.routes.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\upload.routes.js.map
+++agility-theme.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\theme\agility-theme.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\theme\agility-theme.css
+++environment.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\environments\environment.js.map
+++Menu.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\common\menu\menu.component.js.map
+++accinvoice.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.component.js
+++accinvoice.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.js.map
+++accinvoice.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.service.js
+++accinvoicedetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoicedetail.js.map
+++controljob.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.component.js
+++controljob.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.js.map
+++controljob.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.service.js
+++controljobdetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljobdetail.js.map
+++financialperiod.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.component.js
+++financialperiod.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.js.map
+++financialperiod.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.service.js
+++generateinvoice.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.component.js
+++generateinvoice.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.js.map
+++generateinvoice.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.service.js
+++groupinvoice.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.component.js
+++groupinvoice.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.js.map
+++groupinvoice.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.service.js
+++groupinvoicedetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoicedetail.js.map
+++invcal_detail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcal_detail.js.map
+++invcalendar.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.component.js
+++invcalendar.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.js.map
+++invcalendar.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.service.js
+++invoiceremarks.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.component.js
+++invoiceremarks.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.js.map
+++invoiceremarks.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.service.js
+++note.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.component.js
+++note.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.js.map
+++note.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.service.js
+++notedetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\notedetail.js.map
+++preinvoicevalidation.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.component.js.map
+++preinvoicevalidation.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\preinvoicevalidation\preinvoicevalidation.service.js.map
+++ratesheet.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.component.js
+++ratesheet.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.js.map
+++ratesheet.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.service.js
+++ratesheet_accessorial.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_accessorial.js.map
+++ratesheet_handling.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling.js.map
+++ratesheet_handling_containerType.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_containertype.js.map
+++ratesheet_handling_sku.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_handling_sku.js.map
+++ratesheet_projectremarks.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_projectremarks.js.map
+++ratesheet_storage.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage.js.map
+++ratesheet_storage_exloc.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_exloc.js.map
+++ratesheet_storage_loccategory.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet_storage_loccategory.js.map
+++uninvoice.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.component.js.map
+++uninvoice.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\uninvoice\uninvoice.service.js.map
+++wf_ratesheet.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.component.js
+++wf_ratesheet.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.js.map
+++wf_ratesheet.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.service.js
+++wf_ratesheet_accessorial.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_accessorial.js.map
+++wf_ratesheet_handling.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling.js.map
+++wf_ratesheet_handling_containertype.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_containertype.js.map
+++wf_ratesheet_handling_sku.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_handling_sku.js.map
+++wf_ratesheet_projectremarks.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_projectremarks.js.map
+++wf_ratesheet_storage.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage.js.map
+++wf_ratesheet_storage_exloc.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_exloc.js.map
+++wf_ratesheet_storage_loccategory.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet_storage_loccategory.js.map
+++formsubmission-dialog.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.component.js.map
+++formsubmission-dialog.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\formsubmissiondialog\formsubmission-dialog.service.js.map
+++auth.guard.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\guard\auth.guard.js.map
+++history-dialog.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.component.js.map
+++history-dialog.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\historydialog\history-dialog.service.js.map
+++search-dialog.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.component.js.map
+++search-dialog.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\searchdialog\search-dialog.service.js.map
+++auth.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\auth.service.js.map
+++toaster.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\service\toaster.service.js.map
+++wait-dialog.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.component.js.map
+++wait-dialog.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\helper\waitdialog\wait-dialog.service.js.map
+++accessorialcharge.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.component.js
+++accessorialcharge.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.js.map
+++accessorialcharge.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.service.js
+++calendar.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.component.js
+++calendar.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.js.map
+++calendar.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.service.js
+++calendardays.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendardays.js.map
+++chargetype.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.component.js
+++chargetype.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.js.map
+++chargetype.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.service.js
+++costhead.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.component.js
+++costhead.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.js.map
+++costhead.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.service.js
+++cptemplate.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplate.js.map
+++cptemplatedetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\cptemplate\cptemplatedetail.js.map
+++kam.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.component.js
+++kam.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.js.map
+++kam.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.service.js
+++profitcenter.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.component.js
+++profitcenter.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.js.map
+++profitcenter.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.service.js
+++storergroup.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.component.js
+++storergroup.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.js.map
+++storergroup.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.service.js
+++storergroupdetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroupdetail.js.map
+++supplier.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.component.js
+++supplier.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.js.map
+++supplier.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.service.js
+++usermanagement.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.component.js.map
+++usermanagement.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\usermanagement.service.js.map
+++userprofile.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userprofile.js.map
+++userrole.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userrole.js.map
+++userwarehouse.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\usermanagement\userwarehouse.js.map
+++whtaxexemption.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.component.js
+++whtaxexemption.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.js.map
+++whtaxexemption.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.service.js
+++costprovision.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.component.js
+++costprovision.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.js.map
+++costprovision.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.service.js
+++costprovisiondetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovisiondetail.js.map
+++handlingdoc.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.component.js
+++handlingdoc.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.js.map
+++handlingdoc.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.service.js
+++sqftreading.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\sqftreading.js.map
+++variablesqft.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.component.js
+++variablesqft.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.js.map
+++variablesqft.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.service.js
+++asn.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.component.js
+++asn.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.js.map
+++asn.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.service.js
+++asndetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asndetail.js.map
+++so.component.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.component.js
+++so.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.js.map
+++so.service.js
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.service.js
+++sodetail.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\sodetail.js.map
+++agility-theme.min.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\assets\theme\agility-theme.min.css
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\dist\assets\theme\agility-theme.min.css
+++accinvoice.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.component.js.map
+++accinvoice.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\accinvoice\accinvoice.service.js.map
+++controljob.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.component.js.map
+++controljob.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\controljob\controljob.service.js.map
+++financialperiod.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.component.js.map
+++financialperiod.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\financialperiod\financialperiod.service.js.map
+++generateinvoice.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.component.js.map
+++generateinvoice.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\generateinvoice\generateinvoice.service.js.map
+++groupinvoice.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.component.js.map
+++groupinvoice.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\groupinvoice\groupinvoice.service.js.map
+++invcalendar.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.component.js.map
+++invcalendar.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invcalendar\invcalendar.service.js.map
+++invoiceremarks.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.component.js.map
+++invoiceremarks.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\invoiceremarks\invoiceremarks.service.js.map
+++note.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.component.js.map
+++note.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\note\note.service.js.map
+++ratesheet.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.component.js.map
+++ratesheet.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\ratesheet\ratesheet.service.js.map
+++wf_ratesheet.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.component.js.map
+++wf_ratesheet.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\finance\wf_ratesheet\wf_ratesheet.service.js.map
+++accessorialcharge.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.component.js.map
+++accessorialcharge.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\accessorialcharge\accessorialcharge.service.js.map
+++calendar.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.component.js.map
+++calendar.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\calendar\calendar.service.js.map
+++chargetype.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.component.js.map
+++chargetype.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\chargetype\chargetype.service.js.map
+++costhead.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.component.js.map
+++costhead.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\costhead\costhead.service.js.map
+++kam.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.component.js.map
+++kam.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\kam\kam.service.js.map
+++profitcenter.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.component.js.map
+++profitcenter.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\profitcenter\profitcenter.service.js.map
+++storergroup.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.component.js.map
+++storergroup.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\storergroup\storergroup.service.js.map
+++supplier.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.component.js.map
+++supplier.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\supplier\supplier.service.js.map
+++whtaxexemption.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.component.js.map
+++whtaxexemption.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\master\whtaxexemption\whtaxexemption.service.js.map
+++costprovision.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.component.js.map
+++costprovision.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\costprovision\costprovision.service.js.map
+++handlingdoc.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.component.js.map
+++handlingdoc.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\handlingdoc\handlingdoc.service.js.map
+++variablesqft.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.component.js.map
+++variablesqft.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\operation\variablesqft\variablesqft.service.js.map
+++asn.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.component.js.map
+++asn.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\asn\asn.service.js.map
+++so.component.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.component.js.map
+++so.service.js.map
+i:{e462fe0a-d87e-43c3-8090-a4900f7325aa}:h:\naveelprojects\wims angular - copy\wimsng\clientapp\src\app\upload\so\so.service.js.map

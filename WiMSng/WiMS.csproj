@@ -1,0 +1,167 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+    <TypeScriptToolsVersion>4.2</TypeScriptToolsVersion>
+    <IsPackable>false</IsPackable>
+    <SpaRoot>ClientApp\</SpaRoot>
+    <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
+
+    <!-- Set this to true if you enable server-side prerendering -->
+    <BuildServerSideRenderer>false</BuildServerSideRenderer>
+    <Nullable>enable</Nullable>
+    <AssemblyName>WiMS</AssemblyName>
+    <UserSecretsId>be09574e-c2f2-4681-ace7-d3460d0a3231</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningsAsErrors />
+    <WarningLevel>2</WarningLevel>
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants></DefineConstants>
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.13" />
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="4.3.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Don't publish the SPA source files, but do show them in the project files list -->
+    <Content Remove="$(SpaRoot)**" />
+    <Content Remove="ClientApp\src\app\helper\Datepicker\**" />
+    <Content Remove="ClientApp\src\app\helper\_confirmDialog\**" />
+    <Content Remove="ClientApp\src\app\upload\**" />
+    <None Remove="$(SpaRoot)**" />
+    <None Remove="ClientApp\src\app\helper\Datepicker\**" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\**" />
+    <None Remove="ClientApp\src\app\upload\**" />
+    <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClientApp\src\app\helper\Datepicker\**" />
+    <Compile Remove="ClientApp\src\app\helper\_confirmDialog\**" />
+    <Compile Remove="ClientApp\src\app\upload\**" />
+    <EmbeddedResource Remove="ClientApp\src\app\helper\Datepicker\**" />
+    <EmbeddedResource Remove="ClientApp\src\app\helper\_confirmDialog\**" />
+    <EmbeddedResource Remove="ClientApp\src\app\upload\**" />
+    <TypeScriptCompile Remove="ClientApp\node_modules\**" />
+    <TypeScriptCompile Remove="ClientApp\src\app\helper\Datepicker\**" />
+    <TypeScriptCompile Remove="ClientApp\src\app\helper\_confirmDialog\**" />
+    <TypeScriptCompile Remove="ClientApp\src\app\upload\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="ClientApp\src\app\app.server.module.js" />
+    <None Remove="ClientApp\src\app\app.server.module.js.map" />
+    <None Remove="ClientApp\src\app\app.server.module.ts" />
+    <None Remove="ClientApp\src\app\common\footer\footer.component.spec.ts" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialfixedinvoice.component.js" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialfixedinvoice.component.js.map" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialfixedinvoice.component.ts" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialvariableinvoice.component.js" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialvariableinvoice.component.js.map" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\accessorialvariableinvoice.component.ts" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\adhocinvoice.component.js" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\adhocinvoice.component.js.map" />
+    <None Remove="ClientApp\src\app\finance\accinvoice\adhocinvoice.component.ts" />
+    <None Remove="ClientApp\src\app\finance\note\InvoiceInfo.ts" />
+    <None Remove="ClientApp\src\app\finance\preinvoicevalidation\preinvoicevalidation.ts" />
+    <None Remove="ClientApp\src\app\helper\Datepicker\Datepicker.component.css" />
+    <None Remove="ClientApp\src\app\helper\Datepicker\Datepicker.component.ts" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\confirmation-dialog.component.html" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\confirmation-dialog.component.ts" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\confirmation-dialog.service.js" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\confirmation-dialog.service.js.map" />
+    <None Remove="ClientApp\src\app\helper\_confirmDialog\confirmation-dialog.service.ts" />
+    <None Remove="ClientApp\src\app\master\cptemplate\cptemplate.component.js" />
+    <None Remove="ClientApp\src\app\master\cptemplate\cptemplate.component.js.map" />
+    <None Remove="ClientApp\src\app\master\cptemplate\cptemplate.service.js" />
+    <None Remove="ClientApp\src\app\master\cptemplate\cptemplate.service.js.map" />
+    <None Remove="ClientApp\src\app\upload\st\st.component.spec.ts" />
+    <None Remove="ClientApp\src\environments\environment.dev.ts" />
+    <None Remove="ClientApp\src\environments\environment.prod.ts" />
+    <None Remove="ClientApp\src\test.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Remove="ClientApp\src\app\app.server.module.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\accinvoice\accessorialfixedinvoice.component.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\accinvoice\accessorialvariableinvoice.component.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\accinvoice\adhocinvoice.component.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\note\note.service.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\note\note.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\finance\preinvoicevalidation\preinvoicevalidation.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\app\master\cptemplate\cptemplate.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\environments\environment.dev.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\environments\environment.prod.ts" />
+    <TypeScriptCompile Remove="ClientApp\src\test.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\src\app\common\" />
+  </ItemGroup>
+
+  <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
+    <!-- Ensure Node.js is installed -->
+    <Exec Command="node --version" ContinueOnError="true">
+      <Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
+    </Exec>
+    <Error Condition="'$(ErrorCode)' != '0'" Text="Node.js is required to build and run this project. To continue, please install Node.js from https://nodejs.org/, and then restart your command prompt or IDE." />
+    <Message Importance="high" Text="Restoring dependencies using 'npm'. This may take several minutes..." />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+  </Target>
+
+  <Target Name="PublishRunWebpack" AfterTargets="ComputeFilesToPublish">
+    <!-- As part of publishing, ensure the JS resources are freshly built in production mode -->
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build -- --configuration production --base-href /WiMS/" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build:ssr -- --configuration production --base-href /WiMS/" Condition=" '$(BuildServerSideRenderer)' == 'true' " />
+
+    <!-- Include the newly-built files in the publish output -->
+    <ItemGroup>
+      <DistFiles Include="$(SpaRoot)dist\**; $(SpaRoot)dist-server\**" />
+      <DistFiles Include="$(SpaRoot)node_modules\**" Condition="'$(BuildServerSideRenderer)' == 'true'" />
+      <ResolvedFileToPublish Include="@(DistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+    <TypeScriptTarget>ES2019</TypeScriptTarget>
+    <TypeScriptJSXEmit>React</TypeScriptJSXEmit>
+    <TypeScriptModuleKind>CommonJS</TypeScriptModuleKind>
+    <TypeScriptExperimentalDecorators>true</TypeScriptExperimentalDecorators>
+    <TypeScriptCompileOnSaveEnabled>True</TypeScriptCompileOnSaveEnabled>
+    <TypeScriptNoImplicitAny>False</TypeScriptNoImplicitAny>
+    <TypeScriptRemoveComments>False</TypeScriptRemoveComments>
+    <TypeScriptOutFile />
+    <TypeScriptOutDir />
+    <TypeScriptGeneratesDeclarations>False</TypeScriptGeneratesDeclarations>
+    <TypeScriptNoEmitOnError>True</TypeScriptNoEmitOnError>
+    <TypeScriptSourceMap>True</TypeScriptSourceMap>
+    <TypeScriptMapRoot />
+    <TypeScriptSourceRoot />
+  </PropertyGroup>
+
+</Project>

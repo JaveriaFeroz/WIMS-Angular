@@ -1,0 +1,12 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divCPTemplate {
+  height: 60vh;
+  width: 36vw;
+}
+
+.grdCPTemplate {
+  height: 53vh;
+  width: 33vw;
+}

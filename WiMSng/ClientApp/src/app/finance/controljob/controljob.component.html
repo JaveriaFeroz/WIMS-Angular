@@ -1,0 +1,44 @@
+<form [formGroup]="frmControlJob">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Control Job Mapping</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Back to Mian Page" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb200">
+          <mat-label>Period</mat-label>
+          <input formControlName="periodName" matTooltip="Financal Period" placeholder="Period" matInput readonly tabindex="-1">
+        </mat-form-field>
+      </td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td colspan="6">
+        <div class="divControlJob">
+          <ag-grid-angular class="ag-theme-balham grdControlJob" id="grdControlJob"
+            [gridOptions]="goControlJob" [columnDefs]="colControlJob" [rowData]="controljobsData"></ag-grid-angular>
+        </div>
+      </td>
+      <td colspan="2">
+        <div *ngIf="errors?.length > 0" class="validation-summary-errors">
+          <span>Validation:</span>
+          <ul>
+            <li *ngFor="let error of errors">{{error}}</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+  </form>

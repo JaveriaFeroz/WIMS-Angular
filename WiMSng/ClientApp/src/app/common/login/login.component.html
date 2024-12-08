@@ -1,0 +1,25 @@
+<form name="Login" (ngSubmit)="login()" #f="ngForm">
+    <mat-card class="mc">
+      <mat-card-title class="mcTitle">User Credentials</mat-card-title>
+      <mat-card-content>
+        <p>
+          <mat-form-field>
+            <mat-label>User Id</mat-label>
+            <input matInput #txtUserId class="mcItem" name="userId" #userId="ngModel" type="text" [(ngModel)]="model.UserId" required autofocus>
+            <mat-icon matSuffix>person</mat-icon>
+            <mat-error>This field is required</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field>
+            <mat-label>Password</mat-label>
+            <input matInput class="mcItem" type="password" name="password" #password="ngModel" ng-init="model.Password=''" [(ngModel)]="model.Password" required placeholder="Enter Password" />
+            <mat-icon matSuffix>lock</mat-icon>
+            <mat-error>This field is required</mat-error>
+          </mat-form-field>
+        </p>
+        <button type="Submit" id="btnLogOn" name="command" value="LogIn">Sign In</button>
+        <button type="button" id="btnSendPassword" name="command" value="ForgotPassword">Forgot Password</button>
+      </mat-card-content>
+    </mat-card>
+</form>

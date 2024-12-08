@@ -1,0 +1,13 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divGroupInvoice {
+  padding-top: 20px;
+  height: 60vh;
+  width: 40vw;
+}
+
+.grdGroupInvoice {
+  height: 56vh;
+  width: 40vw;
+}

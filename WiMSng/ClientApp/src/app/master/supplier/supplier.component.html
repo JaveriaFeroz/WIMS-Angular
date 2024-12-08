@@ -1,0 +1,58 @@
+<form [formGroup]="frmSupplier">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Supplier</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSearch" matTooltip="Search from lookup list" (click)="tbSearch()" class="find"></button>
+          <button type="button" id="btnRecall" matTooltip="Click to Recall existing Entry" (click)="tbRecall()" class="recall"></button>
+          <button type="button" id="btnAdd" matTooltip="Click to create new Entry" (click)="tbAdd()" class="add"></button>
+          <button type="button" id="btnEdit" matTooltip="Click to Edit current Entry" (click)="tbEdit()" class="edit"></button>
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb100" color="accent">
+          <mat-label>Supplier Id</mat-label>
+          <input type="text" formControlName="supplierId" #supplierId matTooltip="Supplier ID, auto generated for new entry" matInput maxlength="3" numbersOnly (keydown.enter)="get(supplierId.value)">
+        </mat-form-field>
+      </td>
+      <td class="slider">
+        <mat-slide-toggle formControlName="isActive" color="primary">Is Active</mat-slide-toggle>
+      </td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td  colspan="3">
+        <mat-form-field class="tb350">
+          <mat-label>Supplier Name</mat-label>
+          <input formControlName="supplierName" #supplierName matTooltip="Enter  Supplier description" matInput maxlength="50" required>
+        </mat-form-field>
+        <!--<mat-error *ngIf="!frmSupplier.get('SupplierName').value && frmSupplier.get('SupplierName').touched">Supplier description is a required field</mat-error>-->
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb100">
+          <mat-label>Control Supplier</mat-label>
+          <input formControlName="controlSupplierId" #headName matTooltip="Enter Cost Supplier description" matInput maxlength="10" required>
+        </mat-form-field>
+      <!--  <mat-error *ngIf="!frmSupplier.get('ControlSupplierId').value && frmSupplier.get('ControlSupplierId').touched">Control Supplier is a required field</mat-error>-->
+      </td>
+    </tr>
+
+  </table>
+</form>
+<footer>
+  <app-footer [items]="footer"></app-footer>
+</footer>

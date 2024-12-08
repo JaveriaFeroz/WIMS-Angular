@@ -1,0 +1,168 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.mat-tab-group {
+  max-width: 97vw;
+  min-width: 97vw;
+}
+
+.grdToolbarSmall {
+  padding-top: 20px;
+  height: 35px;
+  width: 20vw;
+}
+
+.divStorage {
+  height: 50vh;
+  width: 95vw;
+  float: left;
+}
+
+.divStorageRate {
+  height: 48vh;
+  width: 71vw;
+  float: left;
+}
+
+.grdStorage {
+  height: 41vh;
+  width: 71vw;
+}
+
+.divStorageLoc {
+  height: 48vh;
+  width: 20vw;
+  float: left;
+}
+
+.grdStorageLoc {
+  height: 41vh;
+  width: 20vw;
+}
+
+.divHandling {
+  height: 50vh;
+  width: 95vw;
+  float: left;
+}
+
+.divHandlingRate {
+  height: 48vh;
+  width: 73vw;
+  float: left;
+}
+
+.grdHandling {
+  height: 41vh;
+  width: 73vw;
+}
+
+.divHandlingContainer {
+  height: 48vh;
+  width: 21vw;
+  float: left;
+}
+
+.grdHandlingContainer {
+  height: 41vh;
+  width: 21vw;
+}
+
+.divHandlingSKU {
+  height: 48vh;
+  width: 21vw;
+  float: left;
+}
+
+.grdHandlingSKU {
+  height: 41vh;
+  width: 21vw;
+}
+
+.divAccessorial {
+  height: 50vh;
+  width: 95vw;
+  float: left;
+}
+
+.divVariable {
+  height: 48vh;
+  width: 39vw;
+  float: left;
+}
+
+.grdVariable {
+  height: 40vh;
+  width: 39vw;
+}
+
+.divFixed {
+  height: 48vh;
+  width: 46vw;
+  float: left;
+}
+
+.grdFixed {
+  height: 40vh;
+  width: 46vw;
+}
+
+.divRemarks {
+  height: 50vh;
+  width: 65vw;
+  float: left;
+}
+
+.grdRemarks {
+  height: 40vh;
+  width: 75vw;
+}
+
+.divExemptLoc {
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+
+.grdExemptLoc {
+  height: 40vh;
+  width: 20vw;
+}
+
+/*mat-radio-group {
+  width: 50%;
+  font-size: 10px;
+  text-align: center;
+}
+
+
+mat-radio-button {
+  color: blue;
+  font-weight: bold;*/
+/* display: inline; */
+/*}*/
+
+
+/*:host ::ng-deep .mat-tab-label {
+  height: 30px;
+  min-width: 10px;
+}*/
+/*
+  :host ::ng-deep .mat-tab-label.mat-tab-label-active {
+    height: 30px;
+    min-width: 10px;
+  }
+
+
+
+::ng-deep .mat-tab-header, .mat-tab-nav-bar {
+  border-bottom: 0;
+  padding: 1px
+}
+
+::ng-deep.mat-tab-group {
+  width: 1500px !important;
+}*/
+
+
+

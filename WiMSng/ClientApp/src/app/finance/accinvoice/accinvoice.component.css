@@ -1,0 +1,12 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divAccInvoice {
+  height: 53vh;
+  width: 53vw;
+}
+
+.grdAccInvoice {
+  height: 46vh;
+  width: 53vw;
+}

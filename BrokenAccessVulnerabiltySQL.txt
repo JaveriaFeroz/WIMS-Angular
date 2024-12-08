@@ -1,0 +1,190 @@
+USE ARS
+alter table UserProfile
+add ForceSessionExpired bit
+------------------------------------------------------------------------------------------------------
+USE [ARS]
+GO
+/****** Object:  StoredProcedure [dbo].[SaveUserUpdatedSession]    Script Date: 6/23/2023 7:13:22 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:        <Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:    <Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SaveUserUpdatedSession]
+    -- Add the parameters for the stored procedure here
+    @UserId    varchar(20)
+AS
+BEGIN
+    -- SET NOCOUNT ON added to prevent extra result sets from
+    -- interfering with SELECT statements.
+    SET NOCOUNT ON;
+
+ 
+ Update UserProfile set ForceSessionExpired=0
+Where UserId = @UserId
+END
+------------------------------------------------------------------------------------------------------
+USE [ARS]
+GO
+/****** Object:  StoredProcedure [dbo].[GetUserUpdatedSession]    Script Date: 6/23/2023 7:13:13 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:        <Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:    <Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[GetUserUpdatedSession]
+    -- Add the parameters for the stored procedure here
+    @UserId    varchar(20)
+AS
+BEGIN
+    -- SET NOCOUNT ON added to prevent extra result sets from
+    -- interfering with SELECT statements.
+    SET NOCOUNT ON;
+
+ 
+
+    -- Insert statements for procedure here
+    SELECT ISNULL(ForceSessionExpired,0) as ForceSessionExpired from UserProfile where UserId=@UserId
+END
+------------------------------------------------------------------------------------------------------
+USE [WIMS]
+GO
+/****** Object:  StoredProcedure [dbo].[GetUserUpdatedSession]    Script Date: 6/23/2023 7:14:32 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:        <Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:    <Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[GetUserUpdatedSession]
+    -- Add the parameters for the stored procedure here
+    @UserId    varchar(20),
+	@PageName    varchar(20)
+AS
+BEGIN
+
+    -- SET NOCOUNT ON added to prevent extra result sets from
+    -- interfering with SELECT statements.
+    SET NOCOUNT ON;
+
+ 
+
+    -- Insert statements for procedure here
+    --SELECT ISNULL(ForceSessionExpired,0) as ForceSessionExpired from ARS.dbo.UserProfile where UserId=@UserId
+	--exec @ForceSeesionExpired1 = ARS.dbo.GetUserUpdatedSession @UserId
+	If not exists(select * from UserProfile_Option as UO INNER JOIN Options as o on UO.OptionId=o.OptionId where UserId=@UserId and [Route] like '%'+@PageName+'%')
+	begin 
+	select 1 as ForceSessionExpired
+	end
+	else
+	begin
+	exec ARS.dbo.GetUserUpdatedSession @UserId
+	end
+	
+END
+------------------------------------------------------------------------------------------------------
+USE [WIMS]
+GO
+/****** Object:  StoredProcedure [dbo].[SaveUserUpdatedSession]    Script Date: 6/23/2023 7:14:43 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+/************************************* REVISION HISTORY ****************************************
+Created On:	22-Oct-2009
+Created By: Muhammad Sadiq Mun
+
+DATE	UPDATED BY			DESCRIPTION		
+04Mar16	Muhammad Sadiq Mun	Branch Name & Department Name added to ensure one SP serve all portals
+16May16	Muhammad Sadiq Mun	Employee Code column added to ensure same SP serve for workflow & relevant apps
+17Jul19	Muhammad Sadiq Mun	Revamped sp as part of migration from SQL2005 to 2017 and segregatting sp for each aging type
+**********************************************************************************************/
+ALTER procedure [dbo].[SaveUserUpdatedSession]
+@UserId nvarchar(20)
+As
+EXEC ARS.[dbo].[SaveUserUpdatedSession] @UserId
+
+
+------------------------------------------------------------------------------------------------------
+USE [ARS]
+GO
+/****** Object:  StoredProcedure [dbo].[GetUserForAuthentication]    Script Date: 6/23/2023 7:11:41 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+/************************************* REVISION HISTORY ****************************************
+Created On:	22-Oct-2009
+Created By: Muhammad Sadiq Mun
+
+DATE	UPDATED BY			DESCRIPTION		
+04Mar16	Muhammad Sadiq Mun	Branch Name & Department Name added to ensure one SP serve all portals
+16May16	Muhammad Sadiq Mun	Employee Code column added to ensure same SP serve for workflow & relevant apps
+17Jul19	Muhammad Sadiq Mun	Revamped sp as part of migration from SQL2005 to 2017 and segregatting sp for each aging type
+**********************************************************************************************/
+ALTER procedure [dbo].[GetUserForAuthentication]
+@UserId nvarchar(20)
+As
+Select UserId, UserName, EmployeeCode, UP.BranchId, UP.DepartmentId, Password, EmailAddress,
+	UserLevel, UserActive, B.BranchCode, B.BranchName, D.DepartmentCode, D.DepartmentName, 
+	IIf(ForcePwdChange = 1 or Datediff(dd, LastPwdChangedOn, getdate()) > PasswordAge, 1, 0) as ForcePwdChange,ISNULL(UP.ForceSessionExpired,0) as ForceSessionExpired
+From UserProfile UP
+Inner Join Branch B on B.BranchId = UP.BranchId
+Inner Join Department D on D.DepartmentId = UP.DepartmentId, Configuration G
+Where UserId = @UserId;
+EXEC [SaveUserUpdatedSession] @UserId
+-------------------------------------------------------------------------------------------------------------
+USE [WIMS]
+GO
+/****** Object:  StoredProcedure [dbo].[SaveUserOption]    Script Date: 6/23/2023 6:23:28 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+/************************************************ REVISION HISTORY ****************************
+CREATED ON: 30-03-2015
+CREATED BY: Faysal khan
+
+DATE	UPDATED BY			DESCRIPTION
+***********************************************************************************************/
+ALTER Procedure [dbo].[SaveUserOption]
+@NewUserId		Varchar(20),
+@OptionId		smallint,
+@AllowAccess	bit,
+@AllowAdd		bit,
+@AllowEdit		bit,    
+@UserId			varchar(20)
+As
+If @AllowAccess = 0 
+Begin
+	Delete From UserProfile_Option Where OptionId = @OptionId And UserId = @NewUserId
+End       
+Else If Exists(Select OptionId from UserProfile_Option Where UserId = @NewUserId And OptionId = @OptionId)
+Begin
+	Update UserProfile_Option
+	Set IsVisible = @AllowAccess,
+		CanAdd = @AllowAdd,
+		CanEdit = @AllowEdit,
+		UpdatedBy = @UserId,
+		UpdatedOn = getdate()
+	Where OptionId = @OptionId And UserId = @NewUserId
+End
+Else
+Begin
+	Insert Into UserProfile_Option
+	(UserId, OptionId, IsVisible, CanAdd, CanEdit, CreatedBy)
+	values(@NewUserId, @OptionId, @AllowAccess, @AllowAdd, @AllowEdit, @UserId)
+End
+update ARS.dbo.UserProfile set ForceSessionExpired=1 where Userid=@NewUserId
+------------------------------------------------------------------------------------------------------

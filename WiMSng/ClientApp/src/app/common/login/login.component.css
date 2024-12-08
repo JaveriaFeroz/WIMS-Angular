@@ -1,0 +1,22 @@
+@import "../../../assets/css/mainlayout.css";
+
+label {
+  font-weight: bold;
+  font-family: Tahoma;
+  font-size: 10pt;
+}
+
+.mc {
+  width: 25vw;
+  background-color: #f5f1f1;
+  left: 25%;
+}
+
+.mcTitle {
+  color: darkgoldenrod;
+  border-bottom: 2px maroon solid;
+}
+
+.mcItem {
+  width: 20vw;
+}

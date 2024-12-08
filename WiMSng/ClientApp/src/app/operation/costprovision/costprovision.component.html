@@ -1,0 +1,102 @@
+<form [formGroup]="frmCP">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Cost Provision</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSearch" matTooltip="Search from lookup list" (click)="tbSearch()" class="find"></button>
+          <button type="button" id="btnRecall" matTooltip="Click to Recall existing Entry" (click)="tbRecall()" class="recall"></button>
+          <button type="button" id="btnAdd" matTooltip="Click to create new Entry" (click)="tbAdd()" class="add"></button>
+          <button type="button" id="btnEdit" matTooltip="Click to Edit current Entry" (click)="tbEdit()" class="edit"></button>
+          <div id="divSave" class="float-left">
+            <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"
+                    *ngIf="frmCP.get('stateId').value==0 || frmCP.get('stateId').value==1 ||  frmCP.get('stateId').value==5"></button>
+          </div>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb120" color="accent">
+          <mat-label>Provision #</mat-label>
+          <input formControlName="provisionId" #provisionId matTooltip="provisionId #, auto generated for new entry" matInput maxlength="6" numbersOnly (keydown.enter)="get(provisionId.value)">
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb250">
+          <mat-label>Profit Center</mat-label>
+          <mat-select (selectionChange)="tbLoad()" formControlName="pcId" #pcId required>
+            <mat-option *ngFor="let pc of lstProfitCenter" [value]="pc.pcId">{{pc.pcName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb200">
+          <mat-label>Status</mat-label>
+          <input formControlName="stateName" matInput disabled readonly tabindex="-1">
+        </mat-form-field>
+        <input formControlName="stateId" matInput hidden>
+        <input formControlName="owner" matInput hidden>
+        <input formControlName="completed" matInput hidden>
+      </td>
+
+      <td>
+        <mat-form-field class="tb100">
+          <mat-label>Period</mat-label>
+          <input formControlName="periodName" matTooltip="Period" matInput readonly tabindex="-1">
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td  colspan="8">
+        <div class="divCPGrid">
+          <div class="grdToolbar" id="tbGrid">
+            <button type="button" (click)="onAddLine()" id="btnGridAdd" class="add" title="Add Line Item"></button>
+            <button type="button" (click)="onDeleteLine()" id="btnGridDelete" class="delete" title="Remove selected line item"></button>
+          </div>
+          <ag-grid-angular class="ag-theme-balham grdCP" id="grdCP"
+              [gridOptions]="goCP" (cellValueChanged)="onCellValueChanged($event)"
+              [columnDefs]="colCP" [rowData]="cpData"></ag-grid-angular>
+        </div>
+      </td>
+      <td colspan="2">
+        <div *ngIf="errors?.length > 0" class="validation-summary-errors">
+          <span>Validation:</span>
+          <ul>
+            <li *ngFor="let error of errors">{{error}}</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</form>
+
+<footer style="height: 8vh;">
+  <button type="button" [disabled]="submissionButtonsStatus" id="btnHistory" class="history float-right" *ngIf="frmCP.get('stateId').value>=1"
+    matTooltip="Click to view selected Cost Provision Status History" (click)="tbHistory(frmCP.get('provisionId').value)"></button>
+  <button type="button" [disabled]="submissionButtonsStatus" id="btnSubmit" matTooltip="Click to submit this Cost Provision for approval"
+          (click)="tbFormSubmission(frmCP.get('provisionId').value,2)" class="submit float-right"
+          *ngIf="(frmCP.get('stateId').value==1 || frmCP.get('stateId').value==5) && !frmCP.get('completed').value && frmCP.get('owner').value == this.footer.createdBy"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnCancel" matTooltip="Cancel this request to mark this form as completed (Rejected). This form can't be used afterwards"
+            (click)="tbFormSubmission(frmCP.get('provisionId').value,99)" class="cancel float-right"
+            *ngIf="(frmCP.get('stateId').value==1 || frmCP.get('stateId').value==5) && !frmCP.get('completed').value && frmCP.get('owner').value==this.footer.createdBy"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnApprove" matTooltip="Click to mark this Cost Provision as approved"
+      (click)="tbFormSubmission(frmCP.get('provisionId').value,2)" class="approve float-right"
+      *ngIf="frmCP.get('stateId').value==2 && frmCP.get('owner').value==this.loginUser && !frmCP.get('completed').value && frmCP.get('owner').value!=this.footer.createdBy"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnReturn" matTooltip="Click to return this Cost Provision"
+        (click)="tbFormSubmission(frmCP.get('provisionId').value,5)" class="return float-right"
+        *ngIf="(frmCP.get('stateId').value==2 || frmCP.get('stateId').value==5) && !frmCP.get('completed').value && frmCP.get('owner').value!=this.footer.createdBy && frmCP.get('owner').value==this.loginUser"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnReject" matTooltip="Click to reject this Form. This Form will no longer be actionable once you reject it!"
+            (click)="tbFormSubmission(frmCP.get('provisionId').value,4)" class="reject float-right"
+            *ngIf="(frmCP.get('stateId').value==2 || frmCP.get('stateId').value==5) && frmCP.get('owner').value==this.loginUser && !frmCP.get('completed').value &&
+                frmCP.get('owner').value!=this.footer.createdBy"></button>
+  <app-footer [items]="footer"></app-footer>
+</footer>

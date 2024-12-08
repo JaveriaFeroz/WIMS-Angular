@@ -1,0 +1,28 @@
+<div [formGroup]="optionFormGroup">
+  <table>
+    <tr>
+      <td>
+        <div style="float: left;">
+          <span class="site-title">My Forms</span>
+          <mat-radio-group formControlName="options" (change)="GetMyForms(optionFormGroup.get('options').value)">
+            <mat-radio-button value="0" class="mat-primary" checked ng-disabled="readOnly">Current Forms</mat-radio-button>
+            <mat-radio-button value="1" ng-disabled="readOnly">Sent Forms</mat-radio-button>
+            <mat-radio-button value="2" ng-disabled="readOnly" ng-class="tb300">Completed Forms</mat-radio-button>
+            <section></section>
+          </mat-radio-group>
+        </div>
+        <div style="float: right;">
+          <button type="button" id="btnExit" (click)="tbExit()" title="Click to close this window and go back to main menu" class="home"> </button>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="divMyForm">
+          <ag-grid-angular class="ag-theme-balham grdMyForm" id="myGrid" [gridOptions]="goForms"
+            [columnDefs]="colForms" [rowData]="formData" (cellClicked)="onCellClicked($event)"></ag-grid-angular>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

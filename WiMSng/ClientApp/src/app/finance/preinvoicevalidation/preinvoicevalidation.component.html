@@ -1,0 +1,68 @@
+<form [formGroup]="frmPIValidation">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Pre Invoice Validation</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnLoad" matTooltip="Click to start validation Process" (click)="btnLoad(frmPIValidation.get('storerGroupId').value,
+                  frmPIValidation.get('pcId').value)" class="download"></button>
+          <button type="button" id="btnExtract" matTooltip="Click to Export data to Excel format" (click)="tbExport()" class="export"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Back to Main Page" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb200">
+          <mat-label>Date From</mat-label>
+          <input matInput [matDatepicker]="mdpDateFrom" [min]="minDate" [max]="maxDate" matTooltip="Enter From Date" formControlName="dateFrom"  required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateFrom"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateFrom></mat-datepicker>
+        </mat-form-field>
+      </td>
+
+      <td >
+        <mat-form-field class="tb200">
+          <mat-label>Date To</mat-label>
+          <input matInput [matDatepicker]="mdpDateTo" [min]="minDate" [max]="maxDate" matTooltip="Enter To Date" formControlName="dateTo"  required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateTo"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateTo></mat-datepicker>
+        </mat-form-field>
+      </td>
+
+      <td >
+        <mat-form-field class="tb250">
+          <mat-label>StorerGroup</mat-label>
+          <mat-select formControlName="storerGroupId" #storerGroupId required> <!--(selectionChange)="onStorerChange(frmPIValidation.get('storerGroupId').value)"-->
+            <mat-option *ngFor="let sg of lstStorerGroup" [value]="sg.groupId">{{sg.groupName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb200">
+          <mat-label>Profit Center</mat-label>
+          <mat-select formControlName="pcId" required>
+            <mat-option *ngFor="let pc of lstProfitCenter" [value]="pc.pcId">{{pc.pcName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+      <td></td>
+      <td colspan="4"></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td colspan="10">
+        <div class="divPIValidation">
+          <ag-grid-angular class="ag-theme-balham grdPIValidation" id="grdPreInvoiceValidation"
+            [gridOptions]="goPIValidation" [columnDefs]="colPIValidation" [rowData]="piData"></ag-grid-angular>
+        </div>
+      </td>
+    </tr>
+  </table>
+</form>

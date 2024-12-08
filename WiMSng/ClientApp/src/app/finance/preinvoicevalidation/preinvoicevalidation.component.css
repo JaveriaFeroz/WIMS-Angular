@@ -1,0 +1,13 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divPIValidation {
+  padding-top: 20px;
+  height: 75vh;
+  width: 80vw;
+}
+
+.grdPIValidation {
+  height: 75vh;
+  width: 80vw;
+}

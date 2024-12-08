@@ -1,0 +1,28 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divGrids {
+  height: 53vh;
+  width: 78vw;
+  float: left;
+}
+
+.grdUserOption {
+  height: 60vh;
+  width: 31vw;
+  float: left;
+}
+
+.grdUserWarehouse {
+  height: 60vh;
+  width: 22vw;
+  padding-left: 2vw;
+  float: left;
+}
+
+.grdUserRole {
+  height: 60vh;
+  width: 20vw;
+  padding-left: 2vw;
+  float: left;
+}

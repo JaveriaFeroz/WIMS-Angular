@@ -1,0 +1,12 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divControlJob {
+  height: 77vh;
+  width: 60vw;
+}
+
+.grdControlJob {
+  height: 65vh;
+  width: 61vw;
+}

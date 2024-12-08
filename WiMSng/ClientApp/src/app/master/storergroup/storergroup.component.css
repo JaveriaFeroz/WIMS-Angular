@@ -1,0 +1,13 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+
+.divStorerGroup{
+  height: 45vh;
+  width: 34vw;
+}
+
+.grdStorerGroup {
+  height: 41vh;
+  width: 32vw;
+}

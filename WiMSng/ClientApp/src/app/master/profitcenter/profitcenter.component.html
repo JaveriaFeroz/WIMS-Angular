@@ -1,0 +1,70 @@
+<form [formGroup]="frmProfitCenter">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Profit Center</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSearch" matTooltip="Search from lookup list" (click)="tbSearch()" class="find"></button>
+          <button type="button" id="btnRecall" matTooltip="Click to Recall existing Entry" (click)="tbRecall()" class="recall"></button>
+          <button type="button" id="btnAdd" matTooltip="Click to create new Entry" (click)="tbAdd()" class="add"></button>
+          <button type="button" id="btnEdit" matTooltip="Click to Edit current Entry" (click)="tbEdit()" class="edit"></button>
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb60" color="accent">
+          <mat-label>PC #</mat-label>
+          <input formControlName="pcId" #pcId matTooltip="Profit Center Id, auto generated for new entry" matInput maxlength="3" numbersOnly (keydown.enter)="get(pcId.value)">
+        </mat-form-field>
+      </td>
+      <td class="slider">
+        <mat-slide-toggle formControlName="isActive" color="primary">Is Active</mat-slide-toggle>
+      </td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+    <tr>
+      <td>
+        <mat-form-field class="tb100">
+          <mat-label>PC Code</mat-label>
+          <input formControlName="pcCode" #pcCode matTooltip="Enter Profit Center code, same as Cargo Wise 1 system code to interface data" matInput maxlength="5" required>
+        </mat-form-field>
+      </td>
+      <td>
+        <mat-form-field class="tb100">
+          <mat-label>Dept Code</mat-label>
+          <input formControlName="deptCode" #deptCode matTooltip="Enter Department code, same as Cargo Wise 1 system code to interface data" matInput maxlength="5" required>
+        </mat-form-field>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <mat-form-field class="tb300">
+          <mat-label>Profit Center Name</mat-label>
+          <input formControlName="pcName"matTooltip="Enter Profit Center Name" matInput maxlength="50" required>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb200">
+          <mat-label>WareHouse</mat-label>
+          <mat-select formControlName="whId" required>
+            <mat-option *ngFor="let wh of lstWarehouse" [value]="wh.whId"> {{wh.whName}} </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+    </tr>
+  </table>
+</form>
+<footer>
+  <app-footer [items]="footer"></app-footer>
+</footer>

@@ -1,0 +1,29 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+
+.divCPGrid {
+  height: 75vh;
+  width: 80vw;
+}
+
+.grdCP {
+  height: 63vh;
+  width: 80vw;
+}
+
+.validation-summary-errors {
+  font-family: 'Comic Sans MS';
+  vertical-align: top;
+  text-align: left;
+  color: red;
+  font-size: 11px;
+  font-weight: bold;
+  border: groove 2px darkgray;
+  height: 35vh;
+  width: 15vw;
+  margin: 10px;
+  text-wrap: normal;
+  word-wrap: hyphenate;
+  overflow: auto;
+}

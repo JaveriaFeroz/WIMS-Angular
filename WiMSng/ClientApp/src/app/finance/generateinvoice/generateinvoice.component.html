@@ -1,0 +1,125 @@
+<form [formGroup]="frmInvoice">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Generate Invoice</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSearch" matTooltip="Search from lookup list" (click)="tbSearch()" class="find"></button>
+          <button type="button" id="btnRecall" matTooltip="Click to Recall existing Entry" (click)="tbRecall()" class="recall"></button>
+          <button type="button" id="btnAdd" matTooltip="Click to create new Entry" (click)="tbAdd()" class="add"></button>
+          <button type="button" id="btnEdit" matTooltip="Click to Edit current Entry" (click)="tbEdit()" class="edit"></button>
+          <button type="button" id="btnSave"   matTooltip="Click to Save current Entry" *ngIf="frmInvoice.get('stateId').value==0 || frmInvoice.get('stateId').value==1 ||  frmInvoice.get('stateId').value==5 " 
+                  (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb60" color="accent">
+          <mat-label>Form #</mat-label>
+          <input formControlName="formId" #formId matTooltip="Form Id, auto generated for new Request" matInput maxlength="6" numbersOnly (keydown.enter)="get(formId.value)">
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb200">
+          <mat-label>Status</mat-label>
+          <input formControlName="stateId" matInput hidden>
+          <input formControlName="owner" matInput hidden>
+          <input formControlName="completed" matInput hidden>
+          <input formControlName="stateName" matInput disabled readonly>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb300">
+          <mat-label>Storer Group</mat-label>
+          <mat-select formControlName="storerGroupId" (selectionChange)="onChange()" #storerGroupId required>
+            <mat-option *ngFor="let sg of lstStorerGroup" [value]="sg.groupId">{{sg.groupName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb200">
+          <mat-label>Profit Center</mat-label>
+          <mat-select formControlName="pcId" (selectionChange)="onChange()" required>
+            <mat-option *ngFor="let pc of lstProfitCenter" [value]="pc.pcId">{{pc.pcName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb100">
+          <mat-label>Tax Rate</mat-label>
+          <input type="number" formControlName="gstRate" min="0" step="0.05" max="100" matTooltip="Tax " maxlength="5" matInput oninput="validity.valid||(value=''); ">
+        </mat-form-field>
+      </td>
+      <td class="slider">
+        <mat-slide-toggle formControlName="inclLastPeriod" (change)="onChange()" color="primary">Show past month invoice calendar</mat-slide-toggle>
+      </td>   
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb250">
+          <mat-label>Invoice Calendar</mat-label>
+          <input formControlName="calendarId" hidden>
+          <input formControlName="calendarName" matTooltip="Calendar Name" matInput readonly tabindex="-1">
+        </mat-form-field>
+      </td>
+      <td>
+        <mat-form-field class="tb120">
+          <mat-label>Date From</mat-label>
+          <input matInput [matDatepicker]="mdpDateFrom"  matTooltip="Date From" formControlName="dateFrom"  readonly tabindex="-1">
+          <mat-datepicker-toggle matSuffix [for]="mdpDateFrom" disabled></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateFrom></mat-datepicker>
+        </mat-form-field>
+     </td>
+      <td >
+        <mat-form-field class="tb120">
+          <mat-label>Date To</mat-label>
+          <!--<input matInput matTooltip="Date To" formControlName="dateTo"  readonly tabindex="-1">-->
+          <input matInput [matDatepicker]="mdpDateTo" matTooltip="Date To" formControlName="dateTo"  readonly tabindex="-1">
+          <mat-datepicker-toggle matSuffix [for]="mdpDateTo" disabled></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateTo></mat-datepicker>
+        </mat-form-field>
+      </td>      
+    </tr>
+  </table>
+</form>
+<footer style="height: 8vh;">
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnHistory" matTooltip="Click to view current request History"
+      (click)="tbHistory(frmInvoice.get('formId').value)" class="history float-right" *ngIf="frmInvoice.get('stateId').value>=1"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnSubmit" matTooltip="Click to submit this request for approval"
+      (click)="tbFormSubmission(frmInvoice.get('formId').value,2)" *ngIf="!frmInvoice.get('completed').value &&
+        (frmInvoice.get('stateId').value==1 || frmInvoice.get('stateId').value==5) && frmInvoice.get('owner').value==this.footer.createdBy"
+        class="submit float-right"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnCancel"
+      matTooltip="Cancel this request to mark this form as completed (Rejected). This form can't be used afterwards"
+      (click)="tbFormSubmission(frmInvoice.get('formId').value,99)" *ngIf="!frmInvoice.get('completed').value &&
+      (frmInvoice.get('stateId').value==1 || frmInvoice.get('stateId').value==5) && frmInvoice.get('owner').value==this.footer.createdBy"
+      class="cancel float-right"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnApprove"
+      matTooltip="Click to approve the invoice generation request" (click)="tbFormSubmission(frmInvoice.get('formId').value,2)"
+      *ngIf="!frmInvoice.get('completed').value && frmInvoice.get('stateId').value==2 &&
+            frmInvoice.get('owner').value==this.currentUserId && frmInvoice.get('owner').value!=this.footer.createdBy"
+      class="approve float-right"></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnReturn" matTooltip="Click to return this Request"
+      (click)="tbFormSubmission(frmInvoice.get('formId').value,5)" class="return float-right"
+      *ngIf="!frmInvoice.get('completed').value && (frmInvoice.get('stateId').value==2)
+            && frmInvoice.get('owner').value!=this.footer.createdBy && frmInvoice.get('owner').value==this.currentUserId" ></button>
+    <button type="button" [disabled]="submissionButtonsStatus" id="btnReject"
+      matTooltip="Click to reject this Invoice Generation Request. This form will no longer be actionable once you reject it!"
+      (click)="tbFormSubmission(frmInvoice.get('formId').value,4)" *ngIf="!frmInvoice.get('completed').value &&
+      (frmInvoice.get('stateId').value==2) && frmInvoice.get('owner').value==this.currentUserId && 
+                frmInvoice.get('owner').value!=this.footer.createdBy" class="reject float-right"></button>
+  <app-footer [items]="footer"></app-footer>
+</footer>

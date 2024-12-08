@@ -1,0 +1,31 @@
+@import "../../../assets/css/formsite.css";
+@import "../../../assets/css/toolbar.css";
+
+.divCalendars {
+  height: 60vh;
+  width: 50vw;
+  float: left;
+}
+
+.divCurrentCal {
+  height: 60vh;
+  width: 24vw;
+  float: left;
+}
+
+.divExpiredCal {
+  height: 60vh;
+  width: 24vw;
+  float: left;
+}
+
+.grdCurrentCal {
+  height: 53vh;
+  width: 23vw;
+}
+
+.grdExpiredCal {
+  height: 53vh;
+  width: 23vw;
+  padding-top: 8.35vh;
+}

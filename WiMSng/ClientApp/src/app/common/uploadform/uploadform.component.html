@@ -1,0 +1,23 @@
+<div [formGroup]="requestFormGroup">
+  <table>
+    <tr>
+      <td>
+        <div style="float: left;">
+          <span class="site-title">Upload Requests</span>          
+        </div>
+        <div style="float: right;">
+          <button type="button" id="btnExit" (click)="tbExit()" title="Click to close this window and go back to main menu" class="home"> </button>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="divRequest">
+          <ag-grid-angular class="ag-theme-balham grdRequest" [gridOptions]="goRequest"
+            [columnDefs]="colReq" [rowData]="requestData"></ag-grid-angular>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>

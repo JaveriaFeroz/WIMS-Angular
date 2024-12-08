@@ -1,0 +1,62 @@
+<form [formGroup]="frmInvoiceRemarks">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Invoice Remarks</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnRecall" matTooltip="Click to Recall existing Entry" (click)="tbRecall()" class="recall"></button>
+          <button type="button" id="btnEdit" matTooltip="Click to Edit current Entry" (click)="tbEdit()" class="edit"></button>
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb100" color="accent">
+          <mat-label>Invoice #</mat-label>
+          <input type="text" formControlName="invoiceNo" #invoiceNo matInput maxlength="10" (keydown.enter)="get(invoiceNo.value)">
+        </mat-form-field>
+      </td>            
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td  colspan="3">
+        <mat-form-field class="tb500">
+          <mat-label>Project Name</mat-label>
+          <textarea matInput formControlName="projectName" matTooltip="Enter Project Name" maxlength="100" #projectName
+            cdkTextareaAutosize cdkAutosizeMinRows="2" cdkAutosizeMaxRows="2"></textarea>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td  colspan="3">
+        <mat-form-field class="tb500">
+          <mat-label>Project Title</mat-label>
+          <textarea matInput formControlName="projectTitle" matTooltip="Enter Project Title" maxlength="100"
+            cdkTextareaAutosize cdkAutosizeMinRows="2" cdkAutosizeMaxRows="2"></textarea>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="3">
+        <mat-form-field class="tb500">
+          <mat-label>Remarks</mat-label>
+          <textarea matInput formControlName="remarks" matTooltip="Enter Remarks" maxlength="500"
+            cdkTextareaAutosize cdkAutosizeMinRows="2" cdkAutosizeMaxRows="2"></textarea>
+        </mat-form-field>
+      </td>
+    </tr>
+  </table>
+</form>
+<footer>
+  <app-footer [items]="footer"></app-footer>
+</footer>

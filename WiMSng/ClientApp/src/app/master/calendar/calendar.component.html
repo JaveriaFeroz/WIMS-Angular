@@ -1,0 +1,52 @@
+<form [formGroup]="frmCalendar">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Calendar</p>
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <mat-form-field class="tb120">
+          <mat-label>Date From</mat-label>
+          <input matInput [matDatepicker]="mdpDateFrom" [min]="minDate" [max]="maxDate" matTooltip="Enter From Date" formControlName="dateFrom" required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateFrom"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateFrom></mat-datepicker>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb120">
+          <mat-label>Date To</mat-label>
+          <input matInput [matDatepicker]="mdpDateTo" [min]="minDate" [max]="maxDate" matTooltip="Enter To Date" formControlName="dateTo" required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateTo"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateTo></mat-datepicker>
+        </mat-form-field>
+      </td>
+      <td>
+        <button type="button" id="btnLoad" matTooltip="Click to Load existing calendar entries for the given range" (click)="tbLoad()" class="load float-left"></button>
+      </td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td colspan="5">
+          <ag-grid-angular class="ag-theme-balham grdCalendar" id="grdCalendar"
+            [gridOptions]="goCalendar" [frameworkComponents]="frameworkComponents"
+            [columnDefs]="colCalendar" [rowData]="calendarData"></ag-grid-angular>
+      </td>
+    </tr>
+  </table>
+</form>
+<footer>
+  <app-footer [items]="footer"></app-footer>
+</footer>

@@ -1,0 +1,85 @@
+<form [formGroup]="frmVSF">
+  <table class="mainTable">
+    <tr class="form-title-bg">
+      <td colspan="5">
+        <p class="form-title">Daily Variable Sq. Ft</p>        
+      </td>
+      <td colspan="5">
+        <div id="divHToolbar" class="float-right">
+          <button type="button" id="btnLoad" matTooltip="Click to Load Data" (click)="tbLoad()" class="load"></button>
+          <button type="button" id="btnSave" matTooltip="Click to Save current Entry" (click)="tbSave()" class="save"></button>
+          <button type="button" id="btnUndo" matTooltip="Click to discard changes made since last save operation" (click)="tbUndo()" class="undo"></button>
+          <button type="button" id="btnExit" matTooltip="Click to go back to main menu" (click)="tbExit()" class="exit"></button>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb120">
+          <mat-label>Date From </mat-label>
+          <input matInput [matDatepicker]="mdpDateFrom" [min]="minDate" [max]="maxDate" matTooltip="Date From" formControlName="dateFrom" required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateFrom"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateFrom></mat-datepicker>
+        </mat-form-field>
+      </td>
+
+      <td >
+        <mat-form-field class="tb120">
+          <mat-label>Date To</mat-label>
+          <input matInput [matDatepicker]="mdpDateTo" [min]="minDate" [max]="maxDate" matTooltip="Date To" formControlName="dateTo" required>
+          <mat-datepicker-toggle matSuffix [for]="mdpDateTo"></mat-datepicker-toggle>
+          <mat-datepicker #mdpDateTo></mat-datepicker>
+        </mat-form-field>
+      </td>
+      <td>
+      <td colspan="3"></td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td >
+        <mat-form-field class="tb200">
+          <mat-label>StorerGroup</mat-label>
+          <mat-select formControlName="storerGroupId"  required>
+            <mat-option *ngFor="let sg of lstStorerGroup" [value]="sg.groupId">{{sg.groupName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb200">
+          <mat-label>Profit Center</mat-label>
+          <mat-select formControlName="pcId" required>
+            <mat-option *ngFor="let pc of lstProfitCenter" [value]="pc.pcId">{{pc.pcName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="tb150">
+          <mat-label>Storage Type</mat-label>
+          <mat-select formControlName="storageTypeId" required>
+            <mat-option *ngFor="let st of lstStorageType" [value]="st.typeId">{{st.typeName}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4">
+          <ag-grid-angular class="ag-theme-balham grdVSF" id="grdVSF"
+            [gridOptions]="goVSF" [columnDefs]="colVSF" [rowData]="readingData"></ag-grid-angular>
+      </td>
+      <td colspan="2">
+        <div *ngIf="errors?.length > 0" class="validation-summary-errors">
+          <span>Validation:</span>
+          <ul>
+            <li *ngFor="let error of errors">{{error}}</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</form>
+
