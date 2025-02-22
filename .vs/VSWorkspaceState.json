@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UploadFiles",
+    "\\WiMSAPI",
+    "\\WiMSAPI\\Areas",
+    "\\WiMSAPI\\Areas\\Upload",
+    "\\WiMSAPI\\Areas\\Upload\\Controllers",
+    "\\WiMSAPI\\Areas\\Upload\\Models\\Packkey",
+    "\\WiMSng"
+  ],
+  "SelectedNode": "\\WiMSAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

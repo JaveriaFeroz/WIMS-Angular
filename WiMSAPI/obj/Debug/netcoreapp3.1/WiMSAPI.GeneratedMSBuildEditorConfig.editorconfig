@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = WiMSAPI
-build_property.ProjectDir = D:\NaveelProjects\DSV\WIMS Angular - Copy\WIMS Angular - Copy\WiMSAPI\
+build_property.ProjectDir = D:\Javeria\WiMS\WiMSAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

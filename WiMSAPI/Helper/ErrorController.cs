@@ -10,15 +10,18 @@ namespace WiMSAPI.Helper
     [ApiController]
     public class ErrorController : ControllerBase
     {
-        [Route("/error")]
-        public IActionResult Error([FromServices] IWebHostEnvironment webHostEnvironment) //=> Problem();
+        [HttpGet] 
+        [Route("error")] 
+        public IActionResult Error([FromServices] IWebHostEnvironment webHostEnvironment)
         {
             var context = HttpContext.Features.Get<IExceptionHandlerFeature>();
 
             return Problem(
-                detail: null, type: null,//context.Error.StackTrace,
-                 title: context.Error.Message,
-                 statusCode: 400);
+                detail: null,
+                type: null, // context.Error.StackTrace,
+                title: context?.Error?.Message ?? "An unexpected error occurred.",
+                statusCode: 400
+            );
         }
     }
 }

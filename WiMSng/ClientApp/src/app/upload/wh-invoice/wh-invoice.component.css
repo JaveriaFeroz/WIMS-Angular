@@ -1,0 +1,28 @@
+/* src/app/upload/wh-invoice/wh-invoice.component.css */
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.file-input-container {
+  margin: 20px 0;
+}
+
+.selected-file {
+  margin: 10px 0;
+  color: #666;
+}
+
+.message {
+  margin-top: 15px;
+  padding: 10px;
+}
+
+  .message.success {
+    color: #28a745;
+  }
+
+button {
+  margin: 10px 0;
+}

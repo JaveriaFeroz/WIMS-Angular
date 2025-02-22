@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WiMSAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745d24c4beb5fe7c50890b1f5288e1e58a620c14")]
 [assembly: System.Reflection.AssemblyProductAttribute("WiMSAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WiMSAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
