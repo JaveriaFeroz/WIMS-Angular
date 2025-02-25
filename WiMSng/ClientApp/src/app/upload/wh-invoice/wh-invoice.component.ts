@@ -1,11 +1,11 @@
-// src/app/upload/wh-invoice/wh-invoice.component.ts
+
 import { Component, OnInit } from '@angular/core';
-import { HttpClient, HttpErrorResponse } from '@angular/common/http';
+import { WhInvoiceService } from './wh-invoice.service';
 
 @Component({
   selector: 'app-wh-invoice',
   templateUrl: './wh-invoice.component.html',
-  styleUrls: ['./wh-invoice.component.css']
+  styleUrls: ['./wh-invoice.component.css'],
 })
 export class WHInvoiceComponent implements OnInit {
   selectedFile: File | null = null;
@@ -13,7 +13,8 @@ export class WHInvoiceComponent implements OnInit {
   errorMessage = '';
   successMessage = '';
 
-  constructor(private http: HttpClient) { }
+
+  constructor(private whInvoiceService: WhInvoiceService) { }
 
   ngOnInit() { }
 
@@ -43,23 +44,26 @@ export class WHInvoiceComponent implements OnInit {
     this.errorMessage = '';
     this.successMessage = '';
 
-    const formData = new FormData();
-    formData.append('file', this.selectedFile);
+    this.whInvoiceService.uploadFile(this.selectedFile).subscribe({
+      next: () => {
+        this.successMessage = 'File uploaded successfully';
+        this.selectedFile = null;
+        this.resetFileInput();
+      },
+      error: (error) => {
+        this.errorMessage = error.message || 'An error occurred during upload';
+      },
+      complete: () => {
+        this.isUploading = false;
+      },
+    });
+  }
 
-    this.http.post('api/Upload/WHInvoice/UploadExcel', formData)
-      .subscribe({
-        next: () => {
-          this.successMessage = 'File uploaded successfully';
-          this.selectedFile = null;
-          const fileInput = document.querySelector('input[type="file"]') as HTMLInputElement;
-          if (fileInput) fileInput.value = '';
-        },
-        error: (error: HttpErrorResponse) => {
-          this.errorMessage = error.error?.message || 'An error occurred during upload';
-        },
-        complete: () => {
-          this.isUploading = false;
-        }
-      });
+  private resetFileInput(): void {
+    const fileInput = document.querySelector('input[type="file"]') as HTMLInputElement;
+    if (fileInput) fileInput.value = '';
   }
 }
+
+
+
