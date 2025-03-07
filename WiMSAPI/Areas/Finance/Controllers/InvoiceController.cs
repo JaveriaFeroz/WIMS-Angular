@@ -159,22 +159,24 @@ namespace WiMSAPI.Areas.Finance.Controllers
             catch (Exception ex) { return Conflict(new ErrorModel { Message = ex.Message, FieldName = "Save" }); }
         }
 
-        [Route("GetShortInfo/{invoiceNo}")]
-        public IActionResult GetShortInfo(string invoiceNo)
-        {
-            try
-            {
-                string controllerName = RouteData.Values["controller"].ToString(); if (Authentication.UserUpdatedSession(Session.GetUserId(HttpContext), controllerName))
-                {
-                    var st = new System.Diagnostics.StackTrace();
-                    var sf = st.GetFrame(0);
-                    var currentMethodName = sf.GetMethod();
-                    return Conflict(new ErrorModel { Message = Session._message, FieldName = currentMethodName.Name });
-                }
-                return Ok(InvoiceInfo.Get(HttpUtility.UrlDecode(invoiceNo), Session.GetUserId(HttpContext)));
-            }
-            catch (Exception ex) { return Conflict(new ErrorModel { Message = ex.Message, FieldName = "GetShortInfo" }); }
-        }
+       // [HttpGet("{invoiceNo}")]
+
+        //[Route("GetShortInfo/{invoiceNo}")]
+        //public IActionResult GetShortInfo(string invoiceNo)
+        //{
+        //    try
+        //    {
+        //        string controllerName = RouteData.Values["controller"].ToString(); if (Authentication.UserUpdatedSession(Session.GetUserId(HttpContext), controllerName))
+        //        {
+        //            var st = new System.Diagnostics.StackTrace();
+        //            var sf = st.GetFrame(0);
+        //            var currentMethodName = sf.GetMethod();
+        //            return Conflict(new ErrorModel { Message = Session._message, FieldName = currentMethodName.Name });
+        //        }
+        //        return Ok(InvoiceInfo.Get(HttpUtility.UrlDecode(invoiceNo), Session.GetUserId(HttpContext)));
+        //    }
+        //    catch (Exception ex) { return Conflict(new ErrorModel { Message = ex.Message, FieldName = "GetShortInfo" }); }
+        //}
 
         [HttpPost]
         public IActionResult Post([FromBody] Invoice inv)

@@ -16,7 +16,7 @@ import { StorerComponent } from './Storer/Storer.component';
 import { PackkeyComponent } from './Packkey/Packkey.component';
 import { SKUComponent } from './SKU/SKU.component';
 import { ITRNComponent } from './ITRN/ITRN.component';
-import { WHInvoiceComponent } from './wh-invoice/wh-invoice.component';
+import { WHInvoiceComponent } from './WHInvoice/WHInvoice.component';
 
 @NgModule({
   declarations: [

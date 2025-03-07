@@ -18,7 +18,7 @@ const so_component_1 = require("./so/so.component");
 const upload_routes_1 = require("./upload.routes");
 const st_component_1 = require("./st/st.component");
 const LocationCategory_component_1 = require("./LocationCategory/LocationCategory.component");
-const wh_invoice_component_1 = require("./wh-invoice/wh-invoice.component"); 
+const WHInvoice_component_1 = require("./WHInvoice/WHInvoice.component"); 
 
 let UploadModule = class UploadModule {
 };
@@ -29,7 +29,7 @@ UploadModule = __decorate([
       so_component_1.SOComponent,
       st_component_1.STComponent,
       LocationCategory_component_1.LocationCategoryComponent,
-      wh_invoice_component_1.WHInvoiceComponent  
+      WHInvoice_component_1.WHInvoiceComponent
     ],
     imports: [
       router_1.RouterModule.forChild(upload_routes_1.uploadRoutes),

@@ -20,7 +20,7 @@ namespace WiMSAPI.Areas.Finance.Models
         #region public properties
         public short? WRSSId { get; set; }
         public short? RSSId { get; set; }
-        public DateTime? DateFrom { get; set; } 
+        public DateTime? DateFrom { get; set; }
         public DateTime? DateTo { get; set; }
         public short? SUId { get; set; }
         public short? STId { get; set; }
@@ -76,7 +76,7 @@ namespace WiMSAPI.Areas.Finance.Models
                                 PeriodTypeId = Convert.ToInt16(dr["PeriodTypeId"]),
                                 StepCharges = Convert.ToBoolean(dr["StepCharges"]),
                                 LocationCategory = categories.Where(x =>
-                                    agHelper.sDBNull(dr["WRSSId"]).HasValue ? 
+                                    agHelper.sDBNull(dr["WRSSId"]).HasValue ?
                                     x.WRSSId == agHelper.NVL(dr[x.WSLCId.HasValue ? "WRSSId" : "RSSId"], 0) : //Convert.ToInt16(dr[x.WSLCId.HasValue ? "WRSSId" : "RSSId"]) : 
                                     x.WRSSId == agHelper.NVL(dr["RSSId"], 0)).ToList(),
                                 IsVisible = Convert.ToBoolean(dr["IsVisible"]),
@@ -114,7 +114,7 @@ namespace WiMSAPI.Areas.Finance.Models
                         db.AddInParameter(dbCommand, "StepCharges", SqlDbType.Bit, rss.StepCharges);
                         db.AddInParameter(dbCommand, "IsVisible", SqlDbType.Bit, rss.IsVisible);
                         db.AddInParameter(dbCommand, "UserId", SqlDbType.VarChar, userId);
-                        db.AddInParameter(dbCommand, "Action", SqlDbType.Char, (rss.Delete ? "D" : (rss.Add ? "I" : "U" )));
+                        db.AddInParameter(dbCommand, "Action", SqlDbType.Char, (rss.Delete ? "D" : (rss.Add ? "I" : "U")));
                         db.AddOutParameter(dbCommand, "NewWRSSId", SqlDbType.Int, 32);
                         db.ExecuteNonQuery(dbCommand, transaction);
                         rss.WRSSId = Convert.ToInt16(dbCommand.Parameters["@NewWRSSId"].Value);
@@ -165,7 +165,7 @@ namespace WiMSAPI.Areas.Finance.Models
                                 LocationCategory = categories.Where(x => x.WRSSId == Convert.ToInt32(dr["RSSId"])).ToList(),
                                 IsVisible = Convert.ToBoolean(dr["IsVisible"]),
                                 Add = false
-                            }); 
+                            });
                         }
                     }
                 }

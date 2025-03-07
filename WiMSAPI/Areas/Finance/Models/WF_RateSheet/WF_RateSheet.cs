@@ -156,7 +156,7 @@ namespace WiMSAPI.Areas.Finance.Models
                     db.AddOutParameter(dbCommand, "newFormId", SqlDbType.SmallInt, 32);
                     db.ExecuteNonQuery(dbCommand, transaction);
                     rs.FormId = Convert.ToInt16(dbCommand.Parameters["@newFormId"].Value);
-                    WF_RateSheet_Storage.Save(rs.FormId.Value, rs.Storage, userId, transaction);
+                 //   WF_RateSheet_Storage.Save(rs.FormId.Value, rs.Storage, userId, transaction);
                     WF_RateSheet_Storage_ExLoc.Save(rs.FormId.Value, rs.ExemptedSL, userId, transaction);
                     WF_RateSheet_Handling.Save(rs.FormId.Value, rs.Handling, userId, transaction);
                     WF_RateSheet_Accessorial.SaveFixed(rs.FormId.Value, rs.FixedAccessorial, userId, transaction);

@@ -11,6 +11,7 @@ using Microsoft.Practices.EnterpriseLibrary.Data;
 using Microsoft.Practices.EnterpriseLibrary.Data.Sql;
 using System.Text;
 using WiMSAPI.Helper;
+using OfficeOpenXml;
 
 namespace WiMSAPI
 {
@@ -19,6 +20,7 @@ namespace WiMSAPI
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         }
 
         public IConfiguration Configuration { get; }
@@ -64,7 +66,7 @@ namespace WiMSAPI
             });
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-
+            services.AddScoped<IExcelProcessor,  ExcelProcessor>();
             // IIS Configuration
             services.Configure<IISOptions>(options =>
             {

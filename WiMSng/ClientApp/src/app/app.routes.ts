@@ -14,6 +14,7 @@ import { SKUComponent } from './upload/SKU/SKU.component';
 import { ITRNComponent } from './upload/ITRN/ITRN.component';
 import { asnComponent } from './upload/ASN/asn.component';
 import { soComponent } from './upload/SO/so.component';
+import { WHInvoiceComponent } from './upload/WHInvoice/WHInvoice.component';
 
 export const mainRoutes: Routes = [
   { path: '', redirectTo: 'login', pathMatch: 'full' },
@@ -34,5 +35,6 @@ export const mainRoutes: Routes = [
   { path: 'ITRN', component: ITRNComponent, data: { title: 'ITRN' } },
   { path: 'ASN', component: asnComponent, data: { title: 'ITRN' } },
   { path: 'SO', component: soComponent, data: { title: 'ITRN' } },
+  { path: 'WHInvoice', component: WHInvoiceComponent, data: { title: 'Warehouse Invoice' } },
   { path: '**', component: PageNotFoundComponent }
 ]

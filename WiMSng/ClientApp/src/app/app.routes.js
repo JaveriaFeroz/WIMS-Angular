@@ -16,6 +16,7 @@ const SKU_component_1 = require("./upload/SKU/SKU.component");
 const ITRN_component_1 = require("./upload/ITRN/ITRN.component");
 const asn_component_1 = require("./upload/ASN/asn.component");
 const so_component_1 = require("./upload/SO/so.component");
+const WHInvoice_component_1 = require("./upload/WHInvoice/WHInvoice.component");
 exports.mainRoutes = [
     { path: '', redirectTo: 'login', pathMatch: 'full' },
     { path: 'login', component: login_layout_component_1.LoginLayoutComponent, data: { title: 'Login' } },
@@ -35,6 +36,7 @@ exports.mainRoutes = [
     { path: 'ITRN', component: ITRN_component_1.ITRNComponent, data: { title: 'ITRN' } },
     { path: 'ASN', component: asn_component_1.asnComponent, data: { title: 'ITRN' } },
     { path: 'SO', component: so_component_1.soComponent, data: { title: 'ITRN' } },
+    { path: 'WHInvoice', component: WHInvoice_component_1.WHInvoiceComponent, data: { title: 'Warehouse Invoice' } },
     { path: '**', component: page_not_found_component_1.PageNotFoundComponent }
 ];
 //# sourceMappingURL=app.routes.js.map

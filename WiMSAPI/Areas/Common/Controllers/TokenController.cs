@@ -64,7 +64,7 @@ namespace WiMSAPI.Common.Controllers
         #endregion
 
         #region private methods
-        public string buildToken(UserCredential _uc)
+        private string buildToken(UserCredential _uc)
         {
             var _claims = new[] {
                 new Claim(JwtRegisteredClaimNames.Sub, _uc.UserId),

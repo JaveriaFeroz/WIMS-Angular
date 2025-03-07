@@ -3,60 +3,64 @@
   "WorkspaceRootPath": "D:\\Javeria\\WiMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\helper\\aggridhelper.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\helper\\aggridhelper.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\areas\\upload\\controllers\\whinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\areas\\upload\\controllers\\whinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\helper\\aggridhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\helper\\aggridhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\helper\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\helper\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\helper\\agformhelper.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\helper\\agformhelper.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\areas\\common\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\areas\\common\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\helper\\agformhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\helper\\agformhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\finance\\accinvoice\\accinvoice.component.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\finance\\accinvoice\\accinvoice.component.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\common\\menu\\menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\common\\menu\\menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storerservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storerservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\areas\\upload\\models\\whinvoice\\whinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\areas\\upload\\models\\whinvoice\\whinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\common\\menu\\menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\common\\menu\\menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\common\\main\\main-layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\common\\main\\main-layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\whinvoice\\whinvoice.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\areas\\upload\\models\\storer\\storer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\areas\\upload\\models\\storer\\storer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|d:\\javeria\\wims\\wimsapi\\areas\\upload\\controllers\\storercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0187FEA-8D70-493E-A65E-8712BEA35FEE}|WiMSAPI\\WiMSAPI.csproj|solutionrelative:wimsapi\\areas\\upload\\controllers\\storercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|d:\\javeria\\wims\\wimsng\\clientapp\\src\\app\\upload\\storer\\storer.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E462FE0A-D87E-43C3-8090-A4900F7325AA}|WiMSng\\WiMS.csproj|solutionrelative:wimsng\\clientapp\\src\\app\\upload\\storer\\storer.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,188 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "agGridHelper.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.ts",
-              "ViewState": "AQIAAIMCAAAAAAAAAAAAAJMCAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Storer.component.spec.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.spec.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.spec.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.spec.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-22T17:03:38.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "agGridHelper.js",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.js",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.js",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.js",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\helper\\agGridHelper.js",
-              "ViewState": "AQIAAH8CAAAAAAAAAAAAAI0CAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-22T17:01:59.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "agFormHelper.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.ts",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-22T17:01:57.764Z",
+              "WhenOpened": "2025-03-06T08:37:09.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "agFormHelper.js",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.js",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.js",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.js",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\helper\\agFormHelper.js",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-22T17:01:56.427Z",
+              "Title": "Storer.component.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-06T08:37:15.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "accinvoice.component.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.ts",
-              "ViewState": "AQIAADoCAAAAAAAAAAAWwEkCAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-22T17:01:53.56Z",
+              "DocumentIndex": 2,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Common\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Areas\\Common\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Common\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WiMSAPI\\Areas\\Common\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:56:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Helper\\Authentication.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Helper\\Authentication.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Helper\\Authentication.cs",
+              "RelativeToolTip": "WiMSAPI\\Helper\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:56:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WHInvoiceController.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Controllers\\WHInvoiceController.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Areas\\Upload\\Controllers\\WHInvoiceController.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Controllers\\WHInvoiceController.cs*",
+              "RelativeToolTip": "WiMSAPI\\Areas\\Upload\\Controllers\\WHInvoiceController.cs*",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAkwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:08.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "accinvoice.component.js",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.js",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.js",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.js",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\finance\\accinvoice\\accinvoice.component.js",
-              "ViewState": "AQIAABcCAAAAAAAAAAAWwCYCAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-22T17:01:48.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\index.html",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\index.html",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\index.html",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Storer.component.html",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.html",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.html",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.html",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.html",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-22T17:00:15.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "main.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\main.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\main.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\main.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\main.ts",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-22T16:59:58.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "main.js",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\main.js",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\main.js",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\main.js",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\main.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-22T16:59:52.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "menu.component.html",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.html",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.html",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.html",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.html",
-              "ViewState": "AQIAABQAAAAAAAAAAAAuwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-22T16:58:47.406Z",
+              "WhenOpened": "2025-03-06T08:36:56.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "menu.component.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\common\\menu\\menu.component.ts",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-22T16:57:53.878Z",
+              "Title": "Storer.component.css",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.css",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.css",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.css",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.component.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-06T09:12:39.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "app.routes.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\app.routes.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\app.routes.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\app.routes.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\app.routes.ts",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "StorerService.service.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\StorerService.service.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\StorerService.service.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\StorerService.service.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\StorerService.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-21T11:26:41.398Z",
+              "WhenOpened": "2025-03-06T08:38:16.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\app.module.ts",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\app.module.ts",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\app.module.ts",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "WHInvoice.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Models\\WHInvoice\\WHInvoice.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Areas\\Upload\\Models\\WHInvoice\\WHInvoice.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Models\\WHInvoice\\WHInvoice.cs",
+              "RelativeToolTip": "WiMSAPI\\Areas\\Upload\\Models\\WHInvoice\\WHInvoice.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwJoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WHInvoice.component.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-21T11:26:23.737Z",
+              "WhenOpened": "2025-03-06T08:45:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WHInvoice.service.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.service.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.service.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.service.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-06T08:45:22.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "main-layout.component.html",
-              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\main\\main-layout.component.html",
-              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\common\\main\\main-layout.component.html",
-              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\common\\main\\main-layout.component.html",
-              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\common\\main\\main-layout.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "WHInvoice.component.html",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.html",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.html",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.html",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\WHInvoice\\WHInvoice.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-21T11:23:46.233Z",
+              "WhenOpened": "2025-03-06T08:45:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Storer.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Models\\Storer\\Storer.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Areas\\Upload\\Models\\Storer\\Storer.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Models\\Storer\\Storer.cs",
+              "RelativeToolTip": "WiMSAPI\\Areas\\Upload\\Models\\Storer\\Storer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:39:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StorerController.cs",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Controllers\\StorerController.cs",
+              "RelativeDocumentMoniker": "WiMSAPI\\Areas\\Upload\\Controllers\\StorerController.cs",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSAPI\\Areas\\Upload\\Controllers\\StorerController.cs",
+              "RelativeToolTip": "WiMSAPI\\Areas\\Upload\\Controllers\\StorerController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:39:33.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Storer.ts",
+              "DocumentMoniker": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.ts",
+              "RelativeDocumentMoniker": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.ts",
+              "ToolTip": "D:\\Javeria\\WiMS\\WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.ts",
+              "RelativeToolTip": "WiMSng\\ClientApp\\src\\app\\upload\\Storer\\Storer.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-06T08:38:18.751Z",
               "EditorCaption": ""
             }
           ]

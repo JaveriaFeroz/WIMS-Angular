@@ -12,7 +12,7 @@ namespace WiMSAPI.Areas.Common.Controllers
     //[PageAuthorization]
     public class MyFormsController : ControllerBase
     {
-        
+        [HttpGet]
         [Route("ActiveForms/{workflowId}")]
         public IActionResult ActiveForms(short workflowId)
         {

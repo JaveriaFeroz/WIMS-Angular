@@ -1,0 +1,99 @@
+<!-- src/app/upload/WHInvoice/WHInvoice.component.html -->
+<div class="container">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Upload WHInvoice Excel File</mat-card-title>
+    </mat-card-header>
+
+    <mat-card-content>
+      <div class="file-input-container">
+        <input type="file"
+               #fileInput
+               (change)="onFileSelected($event)"
+               accept=".xlsx,.xls"
+               [disabled]="isUploading">
+      </div>
+
+      <div class="selected-file" *ngIf="selectedFile">
+        Selected file: {{ selectedFile.name }}
+      </div>
+
+      <div class="button-container">
+        <button mat-raised-button
+                color="primary"
+                (click)="uploadFile()"
+                [disabled]="!selectedFile || isUploading">
+          {{ isUploading ? 'Uploading...' : 'Upload' }}
+        </button>
+
+        <button mat-raised-button
+                color="warn"
+                (click)="resetFileInput()"
+                [disabled]="isUploading || !selectedFile">
+          Cancel
+        </button>
+      </div>
+
+      <div class="message error" *ngIf="errorMessage">
+        <mat-error>{{ errorMessage }}</mat-error>
+      </div>
+
+      <div class="message success" *ngIf="successMessage">
+        {{ successMessage }}
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- src/app/upload/WHInvoice/WHInvoice.component.html -->
+<!--<div class="container">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Upload WHInvoice Excel File</mat-card-title>
+    </mat-card-header>
+
+    <mat-card-content>
+      <div class="file-input-container">
+        <input type="file"
+               #fileInput
+               (change)="onFileSelected($event)"
+               accept=".xlsx,.xls"
+               [disabled]="isUploading">
+      </div>
+
+      <div class="selected-file" *ngIf="selectedFile">
+        Selected file: {{ selectedFile.name }}
+      </div>
+
+      <button mat-raised-button
+              color="primary"
+              (click)="uploadFile()"
+              [disabled]="!selectedFile || isUploading">
+        {{ isUploading ? 'Uploading...' : 'Upload' }}
+      </button>
+
+      <div class="message error" *ngIf="errorMessage">
+        <mat-error>{{ errorMessage }}</mat-error>
+      </div>
+
+      <div class="message success" *ngIf="successMessage">
+        {{ successMessage }}
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>-->
